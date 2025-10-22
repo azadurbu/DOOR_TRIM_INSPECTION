@@ -1,0 +1,19 @@
+﻿<Window x:Class="DOOR_TRIM_INSPECTION.Controls.FormControls.LoadingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DOOR_TRIM_INSPECTION.Controls.FormControls"
+        mc:Ignorable="d"
+        WindowStyle="None" ResizeMode="NoResize" Background="White" 
+        WindowStartupLocation="CenterScreen" SizeToContent="WidthAndHeight" 
+        Title="LoadingWindow" Height="240" Width="300">
+    <Grid>
+        <TextBlock Text="검사 중입니다. 잠시만 기다려주세요..." 
+                   HorizontalAlignment="Center" VerticalAlignment="Center" 
+                   FontSize="16" FontWeight="Bold" />
+        <ProgressBar IsIndeterminate="True" Height="20" Width="200" 
+                     HorizontalAlignment="Center" VerticalAlignment="Bottom" 
+                     Margin="0,0,0,20"/>
+    </Grid>
+</Window>

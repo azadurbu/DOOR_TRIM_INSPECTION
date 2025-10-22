@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="DOOR_TRIM_INSPECTION.Controls.FormControls.CtrlImageSelector"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DOOR_TRIM_INSPECTION.Controls.FormControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Border Margin="0 0 0 5" CornerRadius="7" Background="#F1F0E8" Padding="10" VerticalAlignment="Stretch">
+        <Grid>
+            <!-- Image Placeholder -->
+            <Image x:Name="ImagePreview" Stretch="UniformToFill" Visibility="Collapsed" />
+
+            <!-- Plus/Cross Icon -->
+            <Grid x:Name="ToggleIcon" Cursor="Hand" MouseDown="ToggleIcon_MouseDown" Background="Transparent">
+                <!-- Apply hover triggers to the entire Grid -->
+                <Grid.Triggers>
+                    <EventTrigger RoutedEvent="MouseEnter">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <ColorAnimation Storyboard.TargetName="VerticalRect" 
+                                                Storyboard.TargetProperty="Fill.Color"
+                                                To="#89A8B2" Duration="0:0:0.2" />
+                                <ColorAnimation Storyboard.TargetName="HorizontalRect" 
+                                                Storyboard.TargetProperty="Fill.Color"
+                                                To="#89A8B2" Duration="0:0:0.2" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="MouseLeave">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <ColorAnimation Storyboard.TargetName="VerticalRect" 
+                                                Storyboard.TargetProperty="Fill.Color"
+                                                To="#B3C8CF" Duration="0:0:0.2" />
+                                <ColorAnimation Storyboard.TargetName="HorizontalRect" 
+                                                Storyboard.TargetProperty="Fill.Color"
+                                                To="#B3C8CF" Duration="0:0:0.2" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Grid.Triggers>
+
+                <!-- Vertical Rectangle -->
+                <Rectangle x:Name="VerticalRect" 
+                           Fill="#B3C8CF" 
+                           Width="5"
+                           Height="50"
+                           VerticalAlignment="Center" 
+                           HorizontalAlignment="Center" />
+
+                <!-- Horizontal Rectangle -->
+                <Rectangle x:Name="HorizontalRect" 
+                           Fill="#B3C8CF" 
+                           Height="5" 
+                           Width="50"
+                           VerticalAlignment="Center" 
+                           HorizontalAlignment="Center" />
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

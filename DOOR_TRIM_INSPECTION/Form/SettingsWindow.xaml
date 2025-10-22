@@ -1,0 +1,98 @@
+﻿<Window x:Class="DOOR_TRIM_INSPECTION.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DOOR_TRIM_INSPECTION"
+        xmlns:Controls="clr-namespace:DOOR_TRIM_INSPECTION.Controls"
+        xmlns:FormControls="clr-namespace:DOOR_TRIM_INSPECTION.Controls.FormControls"
+        mc:Ignorable="d"
+        Title="" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen" WindowState="Maximized" Background="#E5E1DA" WindowStyle="ThreeDBorderWindow" Padding="0" Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.1*" />
+            <ColumnDefinition Width="0.9*"/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" CornerRadius="0 0 9 9" Margin="0 0 0 0" Background="#538392" >
+            <Grid Margin="0 0 5 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.4*" />
+                    <ColumnDefinition Width="0.4*" />
+                    <ColumnDefinition Width="0.2*"/>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Name="imgLogo" Source="../images/logo-white-kr.png" Height="45" VerticalAlignment="Center" Margin="10 0 20 0"></Image>
+                        <TextBlock Name="txtApplicationName" FontWeight="ExtraBold" FontSize="28" Text="{DynamicResource TXT_APPLICATION_NAME}" VerticalAlignment="Center" Margin="7 7 7 7"></TextBlock>
+                    </StackPanel>
+                </Border>
+                <Border Grid.Column="2">
+                    <Grid Margin="9 0 0 5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0.33*" />
+                            <ColumnDefinition Width="0.33*" />
+                            <ColumnDefinition Width="0.33*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button Visibility="Hidden" Name="btnCloseWindow" Grid.Column="2" Margin="2 2 2 2" FontSize="18" FontWeight="Bold" Background="Crimson" Click="BtnCloseWindow_Click" Content="{DynamicResource TXT_CLOSE}"></Button>
+                    </Grid>
+                </Border>
+            </Grid>
+        </Border>
+        <Border Grid.Column="0" Grid.Row="1" Margin="7 7 0 0" CornerRadius="7 7 7 7">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="300"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Border Grid.Row="0" Margin="0 0 0 0" CornerRadius="7" Background="#89A8B2" Padding="10" Height="300" MaxHeight="300" VerticalAlignment="Top">
+                    <StackPanel Orientation="Vertical">
+                        <Button Name="btnAlgo" Grid.Column="0" Height="45" Padding="2 2 2 2" FontSize="18" FontWeight="Bold" Background="#89A8B2" Content="{DynamicResource TXT_ALGO_SETUP}" BorderThickness="0 0 0 2" Cursor="Hand" Click="BtnAlgo_Click"></Button>
+                        <Button Name="btnRecipe" Grid.Column="0" Height="45" Padding="2 2 2 2" FontSize="18" FontWeight="Bold" Background="#89A8B2" Content="{DynamicResource TXT_RECIPE_BUILDER}" BorderThickness="0 0 0 2" Cursor="Hand" Click="BtnRecipe_Click"></Button>
+                        <Button Name="btnHardware" Grid.Column="0" Height="45" Padding="2 2 2 2" FontSize="18" FontWeight="Bold" Background="#89A8B2" Content="{DynamicResource TXT_HW_SETTINGS}" BorderThickness="0 0 0 2" Cursor="Hand" Click="BtnHardware_Click"></Button>
+                        <Button Name="btnApplication" Grid.Column="0" Height="45" Padding="2 2 2 2" FontSize="18" FontWeight="Bold" Background="#89A8B2" Content="{DynamicResource TXT_APP_SETTINGS}" BorderThickness="0" Cursor="Hand" Click="BtnApplication_Click"></Button>
+                    </StackPanel>
+                </Border>
+
+                <FormControls:CtrlTrialImageList Grid.Row="1" x:Name="ctrlTrialImageList" Visibility="Collapsed" />
+                
+            </Grid>
+        </Border>
+        <Border Grid.Column="1" Grid.Row="1" CornerRadius="7 7 7 7" Margin="7 7 7 7" Background="#F1F0E8" Padding="3">
+            <TabControl x:Name="tabControl" Margin="0 -20 0 0" BorderThickness="0">
+                <TabControl.Resources>
+                    <Style TargetType="TabPanel">
+                        <Setter Property="Visibility" Value="Hidden"/>
+                    </Style>
+                </TabControl.Resources>
+
+                <TabItem x:Name="tabAlgorithm" Header="" Background="#F1F0E8" BorderThickness="0">
+                    <Controls:CtrlAlgorithmSetup x:Name="ctlAlgorithmSetup" Background="#F1F0E8" BorderBrush="Transparent" BorderThickness="0"></Controls:CtrlAlgorithmSetup>
+                </TabItem>
+                <TabItem x:Name="tabRecipe" Header="" Background="#F1F0E8"  BorderThickness="0">
+                    <Controls:CtrlRecipeSetup x:Name="ctlRecipeSetup"></Controls:CtrlRecipeSetup>
+                </TabItem>
+                <TabItem x:Name="tabHardware" Header="" Background="#F1F0E8"  BorderThickness="0">
+                    <Controls:CtrlHarwareConfigSetup x:Name="ctlHardwareSetup"></Controls:CtrlHarwareConfigSetup>
+                </TabItem>
+                <TabItem x:Name="tabApplication" Header="" Background="#F1F0E8">
+                    <Controls:CtrlAppConfigSetup x:Name="ctlAppConfigSetup"></Controls:CtrlAppConfigSetup>
+                </TabItem>
+            </TabControl>
+        </Border>
+        <Border Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2"  CornerRadius="15 15 0 0" Margin="0 0 0 0" Background="#B3C8CF">
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Column="0" Margin="10 0 0 0">
+                <Image Source="../images/Hanmech_Icon.png" Height="20" VerticalAlignment="Center" Margin="0 0 0 0"></Image>
+                <TextBlock VerticalAlignment="Center" FontSize="12" FontWeight="Bold">&#169; Hanmech Co. Ltd.</TextBlock>
+
+            </StackPanel>
+
+        </Border>
+    </Grid>
+</Window>

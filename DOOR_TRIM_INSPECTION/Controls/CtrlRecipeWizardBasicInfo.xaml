@@ -1,0 +1,91 @@
+﻿<UserControl x:Class="DOOR_TRIM_INSPECTION.Controls.CtrlRecipeWizardBasicInfo"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DOOR_TRIM_INSPECTION.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="1920">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width=".25*"></ColumnDefinition>
+                <ColumnDefinition Width=".25*"></ColumnDefinition>
+                <ColumnDefinition Width=".25*"></ColumnDefinition>
+                <ColumnDefinition Width=".25*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid MaxHeight="40" Height="40" Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width=".4*"/>
+                    <ColumnDefinition Width=".6*"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Content="{DynamicResource TXT_RECIPE_NAME}" Style="{StaticResource FormLabel}"></Label>
+                <TextBox Name="txtRecipeName" Grid.Column="1" Text="" IsEnabled="False" Style="{StaticResource FormTextBox}"></TextBox>
+            </Grid>
+            <Grid MaxHeight="40" Height="40" VerticalAlignment="Center" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width=".4*"/>
+                    <ColumnDefinition Width=".6*"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Content="{DynamicResource TXT_MODEL}" Style="{StaticResource FormLabelLeftMargin}"></Label>
+                <TextBox Name="txtModel" Grid.Column="1" Text="" TextChanged="TxtModel_TextChanged" Style="{StaticResource FormTextBox}"></TextBox>
+            </Grid>
+            <Grid MaxHeight="40" Height="40" VerticalAlignment="Center" Grid.Column="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width=".4*"/>
+                    <ColumnDefinition Width=".6*"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Content="{DynamicResource TXT_YEAR}" Style="{StaticResource FormLabelLeftMargin}"></Label>
+                <ComboBox Name="cboYear" Grid.Column="1" SelectionChanged="CboYear_SelectionChanged" Style="{StaticResource FormComboBox}"></ComboBox>
+            </Grid>
+            <Grid MaxHeight="40" Height="40" VerticalAlignment="Center"  Grid.Column="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width=".4*"/>
+                    <ColumnDefinition Width=".6*"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Content="{DynamicResource TXT_DOOR_TYPE}" Style="{StaticResource FormLabelLeftMargin}"></Label>
+                <ComboBox Name="cboDoorType" Grid.Column="1" SelectionChanged="CboDoorType_SelectionChanged" Style="{StaticResource FormComboBox}"></ComboBox>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.3*"></ColumnDefinition>
+                <ColumnDefinition Width="0.3*"></ColumnDefinition>
+                <ColumnDefinition Width="0.3*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Orientation="Horizontal" VerticalAlignment="Center">
+                <RadioButton Name="rdoFromMasterImg" GroupName="grpOptions" Style="{StaticResource SettingsPageRadioButton}" Margin="5 0 10 0" Content="{StaticResource TXT_USE_MASTER_IMAGE}" Checked="RdoFromMasterImg_Checked"></RadioButton>
+                <Button Name="btnSelectFrontImage" Style="{StaticResource RecipeControlButtonS}" Click="BtnSelectFrontImage_Click" Content="{StaticResource TXT_SELECT_FRONT_IMAGE}"></Button>
+                <Button Name="btnSelectRearImage" Style="{StaticResource RecipeControlButtonS}" Click="BtnSelectRearImage_Click"  Content="{StaticResource TXT_SELECT_REAR_IMAGE}"></Button>
+            </StackPanel>
+            <StackPanel Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center" Visibility="Hidden">
+                <RadioButton Name="rdoFromFolder"  GroupName="grpOptions" Style="{StaticResource SettingsPageRadioButton}"  Content="{StaticResource TXT_MERGE_IMAGE_FROM_FOLDER}" Checked="RdoFromFolder_Checked"></RadioButton>
+                <Button Name="btnMergeFromFolder" Style="{StaticResource RecipeControlButtonS}"  Content="{StaticResource TXT_MERGE_IMAGE_FROM_FOLDER}" Click="BtnMergeFromFolder_Click"></Button>
+            </StackPanel>
+            <StackPanel Grid.Column="2" Orientation="Horizontal" VerticalAlignment="Center">
+                <RadioButton Name="rdoFromPrevResult"  GroupName="grpOptions" Style="{StaticResource SettingsPageRadioButton}"  Content="{StaticResource TXT_USE_PREVIOUS_INSP_IMAGES}" Checked="RdoFromPrevResult_Checked"></RadioButton>
+                <ComboBox Name="cboDoorTrimCodes" Style="{StaticResource RecipeControlLookUp}" IsTextSearchEnabled="True" IsEditable="True">
+                </ComboBox>
+                <Button Name="btnSelectPreviousResultImages" Style="{StaticResource RecipeControlButtonS}" Click="BtnSelectPreviousResultImages_Click"  Content="{StaticResource TXT_SELECT}"></Button>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width=".5*"></ColumnDefinition>
+                <ColumnDefinition Width=".5*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Border Grid.Column="0" Style="{StaticResource SettingsPageImageBorder}">
+                <Image Name="imgFrontImage" />
+            </Border>
+            <Border Grid.Column="1" Style="{StaticResource SettingsPageImageBorder}">
+                <Image Name="imgRearImage"/>
+            </Border>
+        </Grid>
+    </Grid>
+</UserControl>

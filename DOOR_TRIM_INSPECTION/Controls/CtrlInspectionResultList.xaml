@@ -1,0 +1,86 @@
+﻿<UserControl x:Class="DOOR_TRIM_INSPECTION.Controls.CtrlInspectionResultList"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DOOR_TRIM_INSPECTION.Controls"
+             xmlns:Controls="clr-namespace:DOOR_TRIM_INSPECTION.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="130"/>
+            <RowDefinition Height="330"/>
+            <RowDefinition Height="130"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Border Margin="0" CornerRadius="7 7 7 7" Grid.Row="0">
+            <StackPanel Name="stpFronInspection" Orientation="Vertical" Background="#538392" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition Height="0.8*"/>
+                    </Grid.RowDefinitions>
+                    <Border BorderThickness="0,0,0,2" BorderBrush="Black" Margin="10 0 10 0">
+                        <TextBlock FontSize="18" FontWeight="DemiBold" Margin="10 5 5 0" Grid.Row="0">Front Inspection Result</TextBlock>
+                    </Border>
+
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2"  Name="stpFrontInspectionResult" Grid.Row="1">
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+        </Border>
+        <Border Margin="0" CornerRadius="7 7 7 7" Grid.Row="1">
+            <StackPanel Name="stpRearInspection" Orientation="Vertical" Background="#6295A2" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition Height="0.8*"/>
+                    </Grid.RowDefinitions>
+                    <Border BorderThickness="0,0,0,2" BorderBrush="Black" Margin="10 0 10 0">
+                        <TextBlock FontSize="18" FontWeight="DemiBold" Margin="10 5 5 0" Grid.Row="0">Rear Inspection Result</TextBlock>
+                    </Border>
+
+                    <StackPanel Orientation="Vertical" Margin="10 2 2 2" Grid.Row="1">
+                        <Expander Header="Bolt 5/20" Name="expBolt" FontSize="16" FontWeight="SemiBold">
+                            <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2"  Name="stpBoltInspectionResult">
+                            </StackPanel>
+                        </Expander>
+                        <Expander Header="Plugs (0/30)" Name="expPlugs" FontSize="16" FontWeight="SemiBold">
+                            <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2" Name="stpPlugInspectionResult">
+
+                            </StackPanel>
+                        </Expander>
+                        <Expander Header="Screws (1/46)" Name="expScrews" FontSize="16" FontWeight="SemiBold">
+                            <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2"  Name="stpScrewInspectionResult">
+                            </StackPanel>
+                        </Expander>
+                        <Expander Header="Pad (0/3)" Name="expPad" FontSize="16" FontWeight="SemiBold">
+                            <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2"  Name="stpPadInspectionResult">
+                            </StackPanel>
+                        </Expander>
+
+                        <Expander Header="Stopper 0/1" Name="expStopper" FontSize="16" FontWeight="SemiBold">
+                            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled"  >
+                                <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="2"  Name="stpStopperInspectionResult" CanVerticallyScroll="False">
+                                </StackPanel>
+                            </ScrollViewer>
+                        </Expander>
+
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+        </Border>
+        <Border Margin="0" CornerRadius="7 7 7 7" Grid.Row="2">
+            <StackPanel Name="StackPanel1" Orientation="Vertical" Background="#89A8B2" >
+                
+              
+            </StackPanel>
+        </Border>
+        <Border Margin="0" CornerRadius="7 7 7 7" Grid.Row="3">
+            <StackPanel Name="StackPanel2" Orientation="Vertical" Background="#B3C8CF" >
+                
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>

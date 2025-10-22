@@ -1,0 +1,99 @@
+﻿<UserControl x:Class="DOOR_TRIM_INSPECTION.Controls.CtrlHarwareConfigSetup"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:Controls="clr-namespace:DOOR_TRIM_INSPECTION.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="1111.5" d:DesignWidth="1085" Loaded="UserControl_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height=".4*"/>
+        </Grid.RowDefinitions>
+        <Border  Grid.Row="0" Grid.Column="0" Style="{StaticResource SettingsGridItem}">
+            <StackPanel Orientation="Vertical" Style="{StaticResource SettingsGridStackPanel}">
+                <Label Style="{StaticResource SettingsGridItemTitle}">Camera 1</Label>
+                <Controls:CtrlCameraProperty x:Name="ctlCam1Prop"></Controls:CtrlCameraProperty>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="0" Grid.Column="2" Style="{StaticResource SettingsGridItem}">
+            <StackPanel Orientation="Vertical" Style="{StaticResource SettingsGridStackPanel}">
+                <Label Style="{StaticResource SettingsGridItemTitle}">Camera 2</Label>
+                <Controls:CtrlCameraProperty x:Name="ctlCam2Prop"></Controls:CtrlCameraProperty>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="0" Grid.Column="3" Style="{StaticResource SettingsGridItem}">
+            <StackPanel Orientation="Vertical" Style="{StaticResource SettingsGridStackPanel}">
+                <Label Style="{StaticResource SettingsGridItemTitle}">Camera 3</Label>
+                <Controls:CtrlCameraProperty x:Name="ctlCam3Prop"></Controls:CtrlCameraProperty>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="1" Grid.Column="0" Style="{StaticResource SettingsGridItem}">
+            <StackPanel Orientation="Vertical"  Style="{StaticResource SettingsGridStackPanel}">
+                <Label Style="{StaticResource SettingsGridItemTitle}" Content="{StaticResource TXT_LIGHT_SETTINGS}"></Label>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_LIGHT_LEVEL}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtLightLevel" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_LIGHT_CHANNEL}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtLightChannel" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_LIGHT_PORT}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtLightPort" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Name="btnLightOn" Grid.Column="0" Click="btnLightOn_Click" >Light On</Button>
+                    <Button Name="btnLightOff" Grid.Column="1" Click="btnLightOff_Click">Light Off</Button>
+                </Grid>
+                <Grid MaxHeight="40" Height="40" Margin="0,5,0,0" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Name="btnLightResetOn" Grid.Column="0" Click="btnLightResetOn_Click" >Light Reset On</Button>
+                    <Button Name="btnLightResetOff" Grid.Column="1" Click="btnLightResetOff_Click">Light Reset Off</Button>
+                </Grid>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="1" Grid.Column="2" Style="{StaticResource SettingsGridItem}" Margin="5,5,5,10">
+            <StackPanel Orientation="Vertical" Style="{StaticResource SettingsGridStackPanel}">
+                <Label Style="{StaticResource SettingsGridItemTitle}" Content="{StaticResource TXT_BARCODE_READER}"></Label>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_BARCODE_PORT}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtBarcodePort" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+            </StackPanel>
+        </Border>
+        <Button Grid.Row="1" Grid.Column="3" Style="{StaticResource SettingsSaveButton}" Name="btnSaveHWConfig" Click="BtnSaveHWConfig_Click">Save</Button>
+    </Grid>
+</UserControl>

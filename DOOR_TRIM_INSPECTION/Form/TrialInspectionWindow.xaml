@@ -1,0 +1,19 @@
+﻿<Window x:Class="DOOR_TRIM_INSPECTION.Form.TrialInspectionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DOOR_TRIM_INSPECTION.Form"
+        xmlns:Controls="clr-namespace:DOOR_TRIM_INSPECTION.Controls"
+        xmlns:Progressbar="clr-namespace:DOOR_TRIM_INSPECTION.Controls.FormControls"
+        mc:Ignorable="d"
+        Height="1040" Width="1920" WindowState="Maximized" Loaded="Window_Loaded">
+    <Grid> 
+        <Border Grid.Column="0" Grid.Row="1" CornerRadius="7 7 7 7" Margin="7" Background="#F1F0E8" Padding="3" Grid.ColumnSpan="2">
+            <Grid>
+                <Controls:HistoryImageViewer x:Name="ctrlImageVIew" Visibility="Collapsed" ></Controls:HistoryImageViewer>
+                <Progressbar:Progressbar x:Name="progressBarMaster" />
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

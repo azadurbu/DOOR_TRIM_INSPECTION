@@ -1,0 +1,223 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:DOOR_TRIM_INSPECTION.Resources"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="TXT_EXIT_APPLICATION">Exit</system:String>
+    <system:String x:Key="TXT_SETTINGS">Settings</system:String>
+    <system:String x:Key="TXT_HISTORY">History</system:String>
+    <system:String x:Key="TXT_APPLICATION_NAME">DOOR TRIM INSPECTION SYSTEM</system:String>
+    <system:String x:Key="TXT_START">Start</system:String>
+    <system:String x:Key="TXT_ALC_INSPECTION_RESULT">ALC INSPECTION RESULT</system:String>
+    <system:String x:Key="TXT_NG_ITEMS">NG ITEMS</system:String>
+    <system:String x:Key="TXT_CLOSE">Close</system:String>
+    <system:String x:Key="TXT_ALGO_SETUP">Algorithm Setup</system:String>
+    <system:String x:Key="TXT_ALGO">Algorithm</system:String>
+    <system:String x:Key="TXT_RECIPE_BUILDER">Recipe Builder</system:String>
+    <system:String x:Key="TXT_HW_SETTINGS">Hardware</system:String>
+    <system:String x:Key="TXT_APP_SETTINGS">Application</system:String>
+    <system:String x:Key="TXT_CAMERA_CONFIGURATION">Camera Configuration</system:String>
+    <system:String x:Key="TXT_ADD">Add</system:String>
+    <system:String x:Key="TXT_EDIT">Edit</system:String>
+    <system:String x:Key="TXT_DELETE">Delete</system:String>
+    <system:String x:Key="TXT_ALGO_NUM">Algorithm #</system:String>
+    <system:String x:Key="TXT_ALGO_NAME">Algorithm Name</system:String>
+    <system:String x:Key="TXT_DL_CLASS">Deep Learning Class</system:String>
+    <system:String x:Key="TXT_RULE_NAME">Rule Name</system:String>
+    <system:String x:Key="TXT_PARAMETERS">Parameters</system:String>
+    <system:String x:Key="TXT_VALUE">Value</system:String>
+    <system:String x:Key="TXT_ACTIONS">Actions</system:String>
+    <system:String x:Key="TXT_OK">Ok</system:String>
+    <system:String x:Key="TXT_CANCEL">Cancel</system:String>
+    <system:String x:Key="TXT_SAVE">Save</system:String>
+    <system:String x:Key="TXT_UPPER_TRIM">Upper Trim</system:String>
+    <system:String x:Key="TXT_ARMREST">Armrest</system:String>
+    <system:String x:Key="TXT_LOWER_TRIM">Lower Trim</system:String>
+    <system:String x:Key="TXT_GRILL">Grill</system:String>
+    <system:String x:Key="TXT_FULL_HANDLE">Full Handle</system:String>
+    <system:String x:Key="TXT_NOISE_ABSORBER">Noise Absorber</system:String>
+    <system:String x:Key="TXT_HANDLE">Handle</system:String>
+    <system:String x:Key="TXT_SWITCH">Switch</system:String>
+    <system:String x:Key="TXT_IMS">IMS</system:String>
+    <system:String x:Key="TXT_SPEAKER">Speaker</system:String>
+    <system:String x:Key="TXT_WIRE">Wire</system:String>
+	<system:String x:Key="TXT_RECIPE_NUM">Recipe #</system:String>
+    <system:String x:Key="TXT_RECIPE_NAME">Recipe Name</system:String>
+    <system:String x:Key="TXT_MODEL">Model</system:String>
+    <system:String x:Key="TXT_YEAR">Year</system:String>
+    <system:String x:Key="TXT_DOOR_TYPE">Door Type</system:String>
+    <system:String x:Key="TXT_FRONT_IMAGE_PATH">Front Image Path</system:String>
+    <system:String x:Key="TXT_REAR_IMAGE_PATH">Rear Image Path</system:String>
+    <system:String x:Key="TXT_COPY">Copy</system:String>
+    <system:String x:Key="TXT_FRONT_VIEW">Front View</system:String>
+    <system:String x:Key="TXT_REAR_VIEW">Rear View</system:String>
+    <system:String x:Key="TXT_CHANGE_IMAGE">Change Image</system:String>
+    <system:String x:Key="TXT_ROI_SETUP">ROI Setup</system:String>
+    <system:String x:Key="TXT_SELECT_IMAGE">Select Image</system:String>
+    <system:String x:Key="TXT_BASIC_INFO">Basic Info</system:String>
+    <system:String x:Key="TXT_FRONT_ROI_SETUP">Front ROI Setup</system:String>
+    <system:String x:Key="TXT_REAR_ROI_SETUP">Rear ROI Setup</system:String>
+    <system:String x:Key="TXT_USE_MASTER_IMAGE">Use Master Image</system:String>
+    <system:String x:Key="TXT_SELECT_FRONT_IMAGE">Select Front Image</system:String>
+    <system:String x:Key="TXT_SELECT_REAR_IMAGE">Select Rear Image</system:String>
+    <system:String x:Key="TXT_MERGE_IMAGE_FROM_FOLDER">Merge Images from a Folder</system:String>
+    <system:String x:Key="TXT_SELECT_SOURCE">Select Source</system:String>
+    <system:String x:Key="TXT_USE_PREVIOUS_INSP_IMAGES">Use Previous Inspection Images</system:String>
+    <system:String x:Key="TXT_LIGHT_SETTINGS">Light Settings</system:String>
+    <system:String x:Key="TXT_LIGHT_LEVEL">Level</system:String>
+    <system:String x:Key="TXT_LIGHT_CHANNEL">Channel</system:String>
+    <system:String x:Key="TXT_LIGHT_PORT">Port</system:String>
+
+    <system:String x:Key="TXT_CAMERA">Camera</system:String>
+    <system:String x:Key="TXT_CAMERA_NAME">Camera Name</system:String>
+    <system:String x:Key="TXT_CAMERA_IP_ADDRESS">IP Address</system:String>
+    <system:String x:Key="TXT_CAMERA_SERIAL_NO">Serial Number</system:String>
+    <system:String x:Key="TXT_CAMERA_EXPOSURE">Exposure</system:String>
+    <system:String x:Key="TXT_CAMERA_X_OFFSET">X Offset</system:String>
+    <system:String x:Key="TXT_CAMERA_Y_OFFSET">Y Offset</system:String>
+    <system:String x:Key="TXT_CAMERA_WIDTH">Width</system:String>
+    <system:String x:Key="TXT_CAMERA_HEIGHT">Height</system:String>
+    <system:String x:Key="TXT_CAMERA_FRAMERATE">Framerate</system:String>
+    <system:String x:Key="TXT_CAMERA_GAIN">Gain</system:String>
+    <system:String x:Key="TXT_CAMERA_GRAB">Capture</system:String>
+    
+    <system:String x:Key="TXT_BARCODE_READER">Barcode Reader</system:String>
+    <system:String x:Key="TXT_BARCODE_PORT">PORT</system:String>
+
+    <system:String x:Key="TXT_RECIPE_SELECTION">Recipe Selection</system:String>
+    <system:String x:Key="TXT_FRONT_LEFT_DOOR">Front Left Door</system:String>
+    <system:String x:Key="TXT_FRONT_RIGHT_DOOR">Front Right Door</system:String>
+    <system:String x:Key="TXT_REAR_LEFT_DOOR">Rear Left Door</system:String>
+    <system:String x:Key="TXT_REAR_RIGHT_DOOR">Rear Right Door</system:String>
+
+    <system:String x:Key="TXT_TIMEOUT_SETTINGS">Timeout Settings</system:String>
+    <system:String x:Key="TXT_TIMEOUT_DATA_CLEAR">Data Clear</system:String>
+    <system:String x:Key="TXT_TIMEOUT_GRAB">Grab</system:String>
+    <system:String x:Key="TXT_TIMEOUT_INSPECTION">Inspection</system:String>
+
+    <system:String x:Key="TXT_AI_SETTINGS">AI Settings</system:String>
+    <system:String x:Key="TXT_AI_METHOD">Analysis Method</system:String>
+    <system:String x:Key="TXT_AI_WORKSPACE">Workspace File</system:String>
+
+
+    <system:String x:Key="TXT_IMAGE_SETTINGS">Image Settings</system:String>
+    <system:String x:Key="TXT_IMAGE_FOLDER">Image Folder</system:String>
+    <system:String x:Key="TXT_IMAGE_STORAGE_PERIOD">Image Storage Preiod (Days)</system:String>
+
+    <system:String x:Key="TXT_VPP_FOLDER">VPP Folder</system:String>
+    
+    <system:String x:Key="TXT_IS_PARAMETERS">Image Stitching Parameters</system:String>
+    <system:String x:Key="TXT_IS_REGISTRATION">Registration Resolution</system:String>
+    <system:String x:Key="TXT_IS_SEAM_ESTIMATION">Seam Estimation Resolution</system:String>
+    <system:String x:Key="TXT_IS_COMPOSITING">Compositing Resolution</system:String>
+    <system:String x:Key="TXT_IS_PANO_CONFIDENCE">Pano Confidence Threshold</system:String>
+
+    <system:String x:Key="TXT_PROD_PARAM">Production Parameters</system:String>
+    <system:String x:Key="TXT_PROD_CONGCD">CONGCD</system:String>
+    <system:String x:Key="TXT_PROD_LINECD">LINECD</system:String>
+
+    <system:String x:Key="TXT_SELECT">Select</system:String>
+    <system:String x:Key="TXT_ROI_NAME">Name</system:String>
+    <system:String x:Key="TXT_DETECTION_CLASS">Class</system:String>
+    <system:String x:Key="TXT_GROUP">Group</system:String>
+    <system:String x:Key="TXT_GROUP_NAME">Group Name</system:String>
+    <system:String x:Key="TXT_CREATE_GROUP">Create Group</system:String>
+    <system:String x:Key="TXT_ALC_CODE">ALC CODE</system:String>
+    <system:String x:Key="TXT_ALC_NAME">ALC Name</system:String>
+
+    <system:String x:Key="TXT_HISTORY_DATE_RANGE">Date Range</system:String>
+    <system:String x:Key="TXT_HISTORY_FROM">From</system:String>
+    <system:String x:Key="TXT_HISTORY_TO">To</system:String>
+    <system:String x:Key="TXT_HISTORY_3_DAYS">3 Days</system:String>
+    <system:String x:Key="TXT_HISTORY_7_DAYS">7 Days</system:String>
+    <system:String x:Key="TXT_HISTORY_15_DAYS">15 Days</system:String>
+    <system:String x:Key="TXT_HISTORY_30_DAYS">30 Days</system:String>
+    <system:String x:Key="TXT_HISTORY_90_DAYS">90 Days</system:String>
+    <system:String x:Key="TXT_HISTORY_180_DAYS">180 Days</system:String>
+    <system:String x:Key="TXT_HISTORY_FILTERS">Filters</system:String>
+    <system:String x:Key="TXT_HISTORY_INSP_RESULT">Inspection Result</system:String>
+    <system:String x:Key="TXT_HISTORY_ALL">All</system:String>
+    <system:String x:Key="TXT_HISTORY_1ST">1st</system:String>
+    <system:String x:Key="TXT_HISTORY_2ND">2nd</system:String>
+    <system:String x:Key="TXT_HISTORY_DOOR_TRIM">Door Trim</system:String>
+    <system:String x:Key="TXT_HISTORY_FRONT_LEFT">Front Left</system:String>
+    <system:String x:Key="TXT_HISTORY_FRONT_RIGHT">Front Right</system:String>
+    <system:String x:Key="TXT_HISTORY_REAR_LEFT">Rear Left</system:String>
+    <system:String x:Key="TXT_HISTORY_REAR_RIGHT">Rear Right</system:String>
+    <system:String x:Key="TXT_HISTORY_SHOW">Show</system:String>
+    <system:String x:Key="TXT_HISTORY_CHART">Chart</system:String>
+    <system:String x:Key="TXT_HISTORY_SEARCH">Search</system:String>
+    <system:String x:Key="TXT_HISTORY_OK">OK</system:String>
+    <system:String x:Key="TXT_HISTORY_NG">NG</system:String>
+    <system:String x:Key="TXT_HISTORY_SHIFT">Shift</system:String>
+
+    <system:String x:Key="TXT_DELETE_CONFIRMATION">Are you sure you want to delete this item?</system:String>
+    <system:String x:Key="TXT_CONFIRMATION_YES">Yes</system:String>
+    <system:String x:Key="TXT_CONFIRMATION_NO">No</system:String>
+    <system:String x:Key="TXT_WARNING">Warning!</system:String>
+
+    <system:String x:Key="TXT_INSPECTION_SUMMARY">Inspection Summary</system:String>
+    <system:String x:Key="TXT_INSPECTION_ITEM_SCREW">Screw</system:String>
+    <system:String x:Key="TXT_INSPECTION_ITEM_FUSION">Fusion</system:String>
+    <system:String x:Key="TXT_INSPECTION_ITEM_FASTENER">Fastener</system:String>
+    <system:String x:Key="TXT_INSPECTION_ITEM_LEADWIRE">Leadwire</system:String>
+    <system:String x:Key="TXT_INSPECTION_ITEM_PAD">Pad</system:String>
+    <system:String x:Key="TXT_INSPECTION_ITEM_SPEAKER">Speaker</system:String>
+
+    <system:String x:Key="TXT_TRIAL_IMAGE_LIST">Trial Image List</system:String>
+    <system:String x:Key="TXT_TEST">TEST</system:String>
+
+    <system:String x:Key="TXT_POPUP_UP_DIRECTION">Up</system:String>
+    <system:String x:Key="TXT_POPUP_DOWN_DIRECTION">Down</system:String>
+    <system:String x:Key="TXT_POPUP_LEFT_DIRECTION">Left</system:String>
+    <system:String x:Key="TXT_POPUP_RIGHT_DIRECTION">Right</system:String>
+
+    <system:String x:Key="TXT_DOOR_TRIM_ID">Door Trim ID</system:String>
+    <system:String x:Key="TXT_DOOR_SIDE">Door Side</system:String>
+    <system:String x:Key="TXT_DETECTED_COLOR">Door Side</system:String>
+
+	<system:String x:Key="TXT_TRY_MASTER_IMAGE">Master Image</system:String>
+    <system:String x:Key="TXT_TRY_IMAGE_1">Try Image 1</system:String>
+    <system:String x:Key="TXT_TRY_IMAGE_2">Try Image 2</system:String>
+    <system:String x:Key="TXT_TRY_IMAGE_3">Try Image 3</system:String>
+    <system:String x:Key="TXT_TRY_IMAGE_4">Try Image 4</system:String>
+    <system:String x:Key="TXT_TRY_RESULT">Result</system:String>
+    <system:String x:Key="TXT_UPDATE">Update</system:String>
+
+    <system:String x:Key="TXT_ERROR">Error</system:String>
+    <system:String x:Key="TXT_WRONG_BARCODE">Wrong Barcode!</system:String>
+
+    <system:String x:Key="TXT_RECIPE_WIZARD_PREV">Prev</system:String>
+    <system:String x:Key="TXT_RECIPE_WIZARD_NEXT">Next</system:String>
+    <system:String x:Key="TXT_RECIPE_WIZARD_EXIT">Exit</system:String>
+    <system:String x:Key="TXT_RECIPE_WIZARD_FINISH">Finish</system:String>
+    <system:String x:Key="TXT_STOP">Stop</system:String>
+    <system:String x:Key="TXT_MODIFY_GROUP">Modify Group</system:String>
+    <system:String x:Key="TXT_REMOVE_GROUP">Remove Group</system:String>
+    <system:String x:Key="TXT_INSPECT">Inspect</system:String>
+
+    <system:String x:Key="TXT_CALCULATE">Calculate</system:String>
+    <system:String x:Key="TXT_DISTANCE">Distance</system:String>
+
+    <system:String x:Key="TXT_ROI">ROI</system:String>
+
+    <system:String x:Key="TXT_FRONT_OK">Front OK</system:String>
+    <system:String x:Key="TXT_REAR_OK">Rear OK</system:String>
+    <system:String x:Key="TXT_FRONT_NG">Front NG</system:String>
+    <system:String x:Key="TXT_REAR_NG">Rear NG</system:String>
+
+    <system:String x:Key="TXT_MASTER_MODE_INSPECTION">Master Mode Inspection</system:String>
+    <system:String x:Key="TXT_MASTER_MODE_TEST_TIME">Master Mode Time</system:String>
+    <system:String x:Key="TXT_MASTER_INSPECTION_RESULT">Master Inspection Result</system:String>
+    <system:String x:Key="TXT_MASTER_MODE_RESTART_REQUIRED">Program Restart Required!</system:String>
+    <system:String x:Key="TXT_PASS">PASS</system:String>
+    <system:String x:Key="TXT_AUTO_INSP">Auto Inspection</system:String>
+
+    <system:String x:Key="TXT_PLEASE_PROVIDE_IMAGE">Please provide both images of</system:String>
+
+    <system:String x:Key="TXT_OK_IMAGE">OK Image</system:String>
+    <system:String x:Key="TXT_NG_IMAGE">NG Image</system:String>
+    <system:String x:Key="TXT_FRONT">Front</system:String>
+    <system:String x:Key="TXT_REAR">Rear</system:String>
+    
+    <system:String x:Key="TXT_ROI_CROP_IMG">Crop Image</system:String>
+</ResourceDictionary>

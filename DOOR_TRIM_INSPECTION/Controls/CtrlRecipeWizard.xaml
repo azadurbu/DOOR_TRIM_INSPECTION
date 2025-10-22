@@ -1,0 +1,68 @@
+﻿<UserControl x:Class="DOOR_TRIM_INSPECTION.Controls.CtrlRecipeWizard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:Controls="clr-namespace:DOOR_TRIM_INSPECTION.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Loaded="UserControl_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Height="40">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width=".33*"/>
+                <ColumnDefinition Width=".33*"/>
+                <ColumnDefinition Width=".33*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Style="{StaticResource PastStateButton}"  Name="gridStep1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image Source="../images/finished.png" Grid.Column="0" Style="{StaticResource StatusButtonIcon}" Name="imgStep1"/>
+                <Label Grid.Column="1" Style="{StaticResource StatusButtonText}" Content="{StaticResource TXT_BASIC_INFO}"></Label>
+            </Grid>
+            <Grid Grid.Column="1" Style="{StaticResource CurrentStateButton}" Name="gridStep2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image Source="../images/current.png" Grid.Column="0" Style="{StaticResource StatusButtonIcon}" Name="imgStep2" />
+                <Label Grid.Column="1" Style="{StaticResource StatusButtonText}" Content="{StaticResource TXT_FRONT_ROI_SETUP}"></Label>
+            </Grid>
+            <Grid Grid.Column="2" Style="{StaticResource FutureStateButton}" Name="gridStep3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image Source="../images/pending.png" Grid.Column="0" Style="{StaticResource StatusButtonIcon}" Name="imgStep3"/>
+                <Label Grid.Column="1" Style="{StaticResource StatusButtonText}" Content="{StaticResource TXT_REAR_ROI_SETUP}"></Label>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1" Name="gridContent">
+            <Controls:CtrlRecipeWizardBasicInfo x:Name="basicInfoSetup" Visibility="Visible" Loaded="BasicInfoSetup_Loaded"/>
+            <Controls:CtrlRecipeWizardROISetup x:Name="frontROISetup" Visibility="Hidden" />
+            <Controls:CtrlRecipeWizardROISetup x:Name="rearROISetup" Visibility="Hidden"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*"/>
+                <ColumnDefinition Width="0.5*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="155"/>
+                    <ColumnDefinition Width="0.5*"/>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" Style="{StaticResource RecipeControlButtonExit}" Name="btnExit" Click="BtnExit_Click" Content="{StaticResource TXT_RECIPE_WIZARD_EXIT}"></Button>
+                <Button Grid.Column="1" Style="{StaticResource RecipeControlButtonLeft}" Name="btnPrev" Click="BtnPrev_Click" Content="{StaticResource TXT_RECIPE_WIZARD_PREV}"></Button>
+            </Grid>
+            <Button Grid.Column="1" Style="{StaticResource RecipeControlButtonRight}" Name="btnNext" Click="BtnNext_Click" Content="{StaticResource TXT_RECIPE_WIZARD_NEXT}"></Button>
+            <Button Grid.Column="1" Style="{StaticResource RecipeControlButtonRight}" Name="btnSave" Visibility="Hidden" Click="BtnSave_Click" Content="{StaticResource TXT_RECIPE_WIZARD_FINISH}"></Button>
+        </Grid>
+    </Grid>
+</UserControl>

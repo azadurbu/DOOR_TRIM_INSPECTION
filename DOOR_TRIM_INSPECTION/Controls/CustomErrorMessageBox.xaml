@@ -1,0 +1,16 @@
+﻿<Window x:Class="DOOR_TRIM_INSPECTION.Controls.CustomErrorMessageBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DOOR_TRIM_INSPECTION.Controls"
+        mc:Ignorable="d"
+        Title="{DynamicResource TXT_ERROR}" Height="150" Width="300"
+        WindowStartupLocation="CenterOwner">
+    <Grid>
+        <TextBlock x:Name="MessageText" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10" FontSize="14" Text="{DynamicResource TXT_WRONG_BARCODE}" />
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10">
+            <Button x:Name="OkButton" Content="{DynamicResource TXT_OK}" Width="75" Height="30" Margin="5" Click="YesButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

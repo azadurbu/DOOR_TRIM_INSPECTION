@@ -1,0 +1,20 @@
+﻿DOOR_TRIM_INSPECTION
+
+
+exe
+C#
+.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\ARM64\Debug\
+DOOR_TRIM_INSPECTION
+none
+false
+DEBUG;TRACE
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\App.xaml
+47200447911
+4-105958023
+93350794737
+166-1275192588
+Controls\CtrlAddEditAlgorithm.xaml;Controls\CtrlAlgorithmSetup.xaml;Controls\CtrlAppConfigSetup.xaml;Controls\CtrlCameraProperty.xaml;Controls\CtrlCommStatus.xaml;Controls\CtrlInspectionSummary.xaml;Controls\CtrlMasterModeConfigSetup.xaml;Controls\CtrlRecipeList.xaml;Controls\CtrlRecipeWizard.xaml;Controls\CtrlRecipeWizardBasicInfo.xaml;Controls\CtrlRecipeWizardROISetup.xaml;Controls\CtrlRecipeWizardROISetupTry.xaml;Controls\CustomROIPickerBox.xaml;Controls\CustomImagePickerBox.xaml;Controls\CustomFileSelectionBox.xaml;Controls\CustomErrorMessageBox.xaml;Controls\CustomMessageBox.xaml;Controls\FormControls\CtrlComboBoxItem.xaml;Controls\FormControls\CtrlImageSelector.xaml;Controls\FormControls\CtrlListBoxItem.xaml;Controls\FormControls\CtrlTextBoxItem.xaml;Controls\CtrlHarwareConfigSetup.xaml;Controls\CtrlInspectionResultItem.xaml;Controls\CtrlInspectionResultList.xaml;Controls\CtrlRecipeSetup.xaml;Controls\FormControls\CtrlTrialImageList.xaml;Controls\FormControls\LoadingWindow.xaml;Controls\FormControls\MessagePopup.xaml;Controls\FormControls\PopUpInputRow.xaml;Controls\FormControls\PopupROISetup.xaml;Controls\FormControls\PopUpROISetupTRY.xaml;Controls\FormControls\Progressbar.xaml;Controls\HistoryImageViewer.xaml;Controls\ImageViewer.xaml;Controls\ROIImageViewer.xaml;Form\HistoryWindow.xaml;Form\MasterModeInspectionWindow.xaml;Form\MasterTestResultWindow.xaml;Form\PasswordPromptWindow.xaml;Form\PopUpROISetupTryWindow.xaml;Form\TrialInspectionWindow.xaml;MainWindow.xaml;Resources\Strings.ko-KR.xaml;Resources\Strings.xaml;Form\SettingsWindow.xaml;Form\WinInWin.xaml;Resources\Theme.xaml;
+resources\splash.jpg
+True
+

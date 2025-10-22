@@ -1,0 +1,1325 @@
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\bin\Debug\DOOR_TRIM_INSPECTION.exe.config
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\bin\Debug\DOOR_TRIM_INSPECTION.exe
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\bin\Debug\DOOR_TRIM_INSPECTION.pdb
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csprojAssemblyReference.cache
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\WinInWin.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\WinInWin.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\SettingsWindow.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\SettingsWindow.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\bin\Debug\Newtonsoft.Json.dll
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\bin\Debug\Newtonsoft.Json.xml
+E:\PROJECTS\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\bin\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\bin\Debug\DOOR_TRIM_INSPECTION.exe
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\bin\Debug\DOOR_TRIM_INSPECTION.pdb
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\bin\Debug\Newtonsoft.Json.dll
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\bin\Debug\Newtonsoft.Json.xml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.AssemblyReference.cache
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.SuggestedBindingRedirects.cache
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\Runtime\dll\x86\OpenCvSharpExtern.dll
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\Runtime\dll\x64\OpenCvSharpExtern.dll
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\Runtime\DOOR_TRIM_INSPECTION.exe.config
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\Runtime\DOOR_TRIM_INSPECTION.exe
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\Runtime\DOOR_TRIM_INSPECTION.pdb
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRI.8D9B528A.Up2Date
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+D:\JW\01. 진행\27. 덕양\program\MEER_2024.12.02\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+E:\PROJECTS\DoorInspection_241205_LJW\Runtime\dll\x86\OpenCvSharpExtern.dll
+E:\PROJECTS\DoorInspection_241205_LJW\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+E:\PROJECTS\DoorInspection_241205_LJW\Runtime\dll\x64\OpenCvSharpExtern.dll
+E:\PROJECTS\DoorInspection_241205_LJW\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+E:\PROJECTS\DoorInspection_241205_LJW\Runtime\DOOR_TRIM_INSPECTION.exe.config
+E:\PROJECTS\DoorInspection_241205_LJW\Runtime\DOOR_TRIM_INSPECTION.exe
+E:\PROJECTS\DoorInspection_241205_LJW\Runtime\DOOR_TRIM_INSPECTION.pdb
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+E:\PROJECTS\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csprojAssemblyReference.cache
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+D:\DoorInspection_241205_LJW\Runtime\dll\x86\OpenCvSharpExtern.dll
+D:\DoorInspection_241205_LJW\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\DoorInspection_241205_LJW\Runtime\dll\x64\OpenCvSharpExtern.dll
+D:\DoorInspection_241205_LJW\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\DoorInspection_241205_LJW\Runtime\DOOR_TRIM_INSPECTION.exe.config
+D:\DoorInspection_241205_LJW\Runtime\DOOR_TRIM_INSPECTION.exe
+D:\DoorInspection_241205_LJW\Runtime\DOOR_TRIM_INSPECTION.pdb
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+D:\DoorInspection_241205_LJW\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csprojAssemblyReference.cache
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\dll\x86\OpenCvSharpExtern.dll
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\dll\x64\OpenCvSharpExtern.dll
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\DOOR_TRIM_INSPECTION.exe.config
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\DOOR_TRIM_INSPECTION.exe
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\DOOR_TRIM_INSPECTION.pdb
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csprojAssemblyReference.cache
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+D:\WorkSpace\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csprojAssemblyReference.cache
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\dll\x86\OpenCvSharpExtern.dll
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\dll\x64\OpenCvSharpExtern.dll
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\DOOR_TRIM_INSPECTION.exe.config
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\DOOR_TRIM_INSPECTION.exe
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\Runtime\DOOR_TRIM_INSPECTION.pdb
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+E:\DUCKYANG\DoorInspection_241208_MERGED\DoorInspection_241208_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\dll\x86\OpenCvSharpExtern.dll
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\dll\x64\OpenCvSharpExtern.dll
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\DOOR_TRIM_INSPECTION.exe.config
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\DOOR_TRIM_INSPECTION.exe
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\DOOR_TRIM_INSPECTION.pdb
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+D:\WorkSpace\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csprojAssemblyReference.cache
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\dll\x86\OpenCvSharpExtern.dll
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\dll\x64\OpenCvSharpExtern.dll
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\DOOR_TRIM_INSPECTION.exe.config
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\DOOR_TRIM_INSPECTION.exe
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\DOOR_TRIM_INSPECTION.pdb
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csprojAssemblyReference.cache
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+D:\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\dll\x86\OpenCvSharpExtern.dll
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\dll\x64\OpenCvSharpExtern.dll
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\DOOR_TRIM_INSPECTION.exe.config
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\DOOR_TRIM_INSPECTION.exe
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\Runtime\DOOR_TRIM_INSPECTION.pdb
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csprojAssemblyReference.cache
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\Runtime\dll\x86\OpenCvSharpExtern.dll
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\Runtime\dll\x64\OpenCvSharpExtern.dll
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\Runtime\DOOR_TRIM_INSPECTION.exe.config
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\Runtime\DOOR_TRIM_INSPECTION.exe
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\Runtime\DOOR_TRIM_INSPECTION.pdb
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+D:\HMC\DAYEND_2024.12.11\DoorInspection_241210_MERGED\DoorInspection_241210_MERGED\DoorInspection_AD\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csprojAssemblyReference.cache
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csprojAssemblyReference.cache
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\LoadingWindow.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpROISetupTRY.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+D:\WorkSpace\DOOR_TRIM_INSPECTION\Runtime\dll\x86\OpenCvSharpExtern.dll
+D:\WorkSpace\DOOR_TRIM_INSPECTION\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\WorkSpace\DOOR_TRIM_INSPECTION\Runtime\dll\x64\OpenCvSharpExtern.dll
+D:\WorkSpace\DOOR_TRIM_INSPECTION\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\WorkSpace\DOOR_TRIM_INSPECTION\Runtime\DOOR_TRIM_INSPECTION.exe.config
+D:\WorkSpace\DOOR_TRIM_INSPECTION\Runtime\DOOR_TRIM_INSPECTION.exe
+D:\WorkSpace\DOOR_TRIM_INSPECTION\Runtime\DOOR_TRIM_INSPECTION.pdb
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomMessageBox.g.cs
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\LoadingWindow.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpROISetupTRY.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomMessageBox.baml
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+D:\WorkSpace\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+D:\20241206\DOOR_TRIM_INSPECTION\Runtime\dll\x86\OpenCvSharpExtern.dll
+D:\20241206\DOOR_TRIM_INSPECTION\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\20241206\DOOR_TRIM_INSPECTION\Runtime\dll\x64\OpenCvSharpExtern.dll
+D:\20241206\DOOR_TRIM_INSPECTION\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\20241206\DOOR_TRIM_INSPECTION\Runtime\DOOR_TRIM_INSPECTION.exe.config
+D:\20241206\DOOR_TRIM_INSPECTION\Runtime\DOOR_TRIM_INSPECTION.exe
+D:\20241206\DOOR_TRIM_INSPECTION\Runtime\DOOR_TRIM_INSPECTION.pdb
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionSummary.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomImagePickerBox.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomFileSelectionBox.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomErrorMessageBox.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomMessageBox.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlImageSelector.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTrialImageList.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\LoadingWindow.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpROISetupTRY.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\Progressbar.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\HistoryImageViewer.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\PopUpROISetupTryWindow.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\TrialInspectionWindow.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionSummary.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomImagePickerBox.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomFileSelectionBox.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomErrorMessageBox.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomMessageBox.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlImageSelector.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTrialImageList.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\LoadingWindow.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpROISetupTRY.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\Progressbar.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\HistoryImageViewer.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\PopUpROISetupTryWindow.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\TrialInspectionWindow.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+D:\20241206\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csprojAssemblyReference.cache
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\Runtime\dll\x86\OpenCvSharpExtern.dll
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\Runtime\dll\x64\OpenCvSharpExtern.dll
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\Runtime\DOOR_TRIM_INSPECTION.exe.config
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\Runtime\DOOR_TRIM_INSPECTION.exe
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\Runtime\DOOR_TRIM_INSPECTION.pdb
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.AssemblyReference.cache
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.SuggestedBindingRedirects.cache
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionSummary.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlMasterModeConfigSetup.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIPickerBox.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomImagePickerBox.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomFileSelectionBox.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomErrorMessageBox.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomMessageBox.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlImageSelector.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTrialImageList.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\LoadingWindow.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpROISetupTRY.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\Progressbar.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\HistoryImageViewer.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ROIImageViewer.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterModeInspectionWindow.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterTestResultWindow.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\PasswordPromptWindow.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\PopUpROISetupTryWindow.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\TrialInspectionWindow.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionSummary.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlMasterModeConfigSetup.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIPickerBox.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomImagePickerBox.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomFileSelectionBox.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomErrorMessageBox.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomMessageBox.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlImageSelector.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTrialImageList.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\LoadingWindow.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpROISetupTRY.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\Progressbar.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\HistoryImageViewer.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ROIImageViewer.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterModeInspectionWindow.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterTestResultWindow.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\PasswordPromptWindow.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\PopUpROISetupTryWindow.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\TrialInspectionWindow.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRI.8D9B528A.Up2Date
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+D:\JW\01. 진행\27. 덕양\program\DoorInspection_AD_20241223_1730\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+C:\DOOR_TRIM_INSPECTION\Runtime\dll\x86\OpenCvSharpExtern.dll
+C:\DOOR_TRIM_INSPECTION\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+C:\DOOR_TRIM_INSPECTION\Runtime\dll\x64\OpenCvSharpExtern.dll
+C:\DOOR_TRIM_INSPECTION\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+C:\DOOR_TRIM_INSPECTION\Runtime\DOOR_TRIM_INSPECTION.exe.config
+C:\DOOR_TRIM_INSPECTION\Runtime\DOOR_TRIM_INSPECTION.exe
+C:\DOOR_TRIM_INSPECTION\Runtime\DOOR_TRIM_INSPECTION.pdb
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionSummary.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlMasterModeConfigSetup.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIImgPickerBox.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIPickerBox.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomImagePickerBox.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomFileSelectionBox.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomErrorMessageBox.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomMessageBox.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlImageSelector.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTrialImageList.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\LoadingWindow.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpROISetupTRY.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\Progressbar.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\HistoryImageViewer.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ROIImageViewer.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterModeInspectionWindow.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterTestResultWindow.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\PasswordPromptWindow.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\PopUpROISetupTryWindow.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\TrialInspectionWindow.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionSummary.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlMasterModeConfigSetup.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIImgPickerBox.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIPickerBox.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomImagePickerBox.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomFileSelectionBox.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomErrorMessageBox.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomMessageBox.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlImageSelector.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTrialImageList.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\LoadingWindow.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpROISetupTRY.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\Progressbar.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\HistoryImageViewer.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ROIImageViewer.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterModeInspectionWindow.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterTestResultWindow.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\PasswordPromptWindow.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\PopUpROISetupTryWindow.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\TrialInspectionWindow.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+C:\DOOR_TRIM_INSPECTION\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csprojAssemblyReference.cache
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\Runtime\dll\x86\OpenCvSharpExtern.dll
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\Runtime\dll\x64\OpenCvSharpExtern.dll
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\Runtime\DOOR_TRIM_INSPECTION.exe.config
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\Runtime\DOOR_TRIM_INSPECTION.exe
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\Runtime\DOOR_TRIM_INSPECTION.pdb
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.AssemblyReference.cache
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionSummary.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlMasterModeConfigSetup.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIImgPickerBox.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIPickerBox.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomImagePickerBox.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomFileSelectionBox.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomErrorMessageBox.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomMessageBox.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlImageSelector.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTrialImageList.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\LoadingWindow.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpROISetupTRY.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\Progressbar.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\HistoryImageViewer.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ROIImageViewer.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterModeInspectionWindow.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterTestResultWindow.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\PasswordPromptWindow.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\PopUpROISetupTryWindow.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\TrialInspectionWindow.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionSummary.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlMasterModeConfigSetup.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIImgPickerBox.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIPickerBox.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomImagePickerBox.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomFileSelectionBox.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomErrorMessageBox.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomMessageBox.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlImageSelector.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTrialImageList.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\LoadingWindow.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpROISetupTRY.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\Progressbar.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\HistoryImageViewer.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ROIImageViewer.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterModeInspectionWindow.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterTestResultWindow.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\PasswordPromptWindow.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\PopUpROISetupTryWindow.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\TrialInspectionWindow.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+D:\HMC\덕양\DOOR_TRIM_INSPECTION_08_20\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\Runtime\DOOR_TRIM_INSPECTION.exe.config
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\Runtime\DOOR_TRIM_INSPECTION.exe
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\Runtime\DOOR_TRIM_INSPECTION.pdb
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.AssemblyReference.cache
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe.config
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionSummary.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlMasterModeConfigSetup.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIImgPickerBox.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIPickerBox.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomImagePickerBox.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomFileSelectionBox.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomErrorMessageBox.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomMessageBox.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlComboBoxItem.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlImageSelector.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlListBoxItem.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTextBoxItem.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTrialImageList.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\LoadingWindow.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpROISetupTRY.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\Progressbar.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\HistoryImageViewer.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ROIImageViewer.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterModeInspectionWindow.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterTestResultWindow.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\PasswordPromptWindow.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\PopUpROISetupTryWindow.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\TrialInspectionWindow.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\App.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.cache
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_MarkupCompile.lref
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\App.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAddEditAlgorithm.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAlgorithmSetup.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlAppConfigSetup.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCameraProperty.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlCommStatus.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionSummary.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlMasterModeConfigSetup.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeList.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizard.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardBasicInfo.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetup.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeWizardROISetupTry.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIImgPickerBox.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomROIPickerBox.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomImagePickerBox.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomFileSelectionBox.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomErrorMessageBox.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CustomMessageBox.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlImageSelector.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlHarwareConfigSetup.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultItem.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlInspectionResultList.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\CtrlRecipeSetup.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\CtrlTrialImageList.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\LoadingWindow.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\MessagePopup.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpInputRow.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopupROISetup.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\PopUpROISetupTRY.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\FormControls\Progressbar.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\HistoryImageViewer.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ImageViewer.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Controls\ROIImageViewer.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\HistoryWindow.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterModeInspectionWindow.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\MasterTestResultWindow.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\PasswordPromptWindow.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\PopUpROISetupTryWindow.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\TrialInspectionWindow.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\MainWindow.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.ko-KR.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Strings.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\SettingsWindow.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Form\WinInWin.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\Resources\Theme.baml
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.g.resources
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.Properties.Resources.resources
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.GenerateResource.cache
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CoreCompileInputs.cache
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.csproj.CopyComplete
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.exe
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION.pdb
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\Runtime\dll\x86\OpenCvSharpExtern.dll
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\Runtime\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\Runtime\dll\x64\OpenCvSharpExtern.dll
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\Runtime\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\HMC\덕양\GIT-VERSION\doortrim-inspection\DOOR_TRIM_INSPECTION\obj\Debug\DOOR_TRIM_INSPECTION_Content.g.cs

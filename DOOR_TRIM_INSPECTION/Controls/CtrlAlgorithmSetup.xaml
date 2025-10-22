@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="DOOR_TRIM_INSPECTION.Controls.CtrlAlgorithmSetup"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:Controls="clr-namespace:DOOR_TRIM_INSPECTION.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Loaded="CtrlAlgorithmSetup_Loaded">
+    <Grid Margin="20">
+        <Grid Name="gridCameraSetup" Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width=".7*"/>
+                <ColumnDefinition Width=".3*"/>
+            </Grid.ColumnDefinitions>
+            <Label FontSize="16" FontWeight="Bold" Content="{DynamicResource TXT_ALGO_SETUP}" Grid.Row="0" Grid.Column="0"></Label>
+            <Button Grid.Row="0" Grid.Column="1" Name="btnAdd" Margin="5" FontSize="18" FontWeight="Bold" Background="#B3C8CF" Content="{DynamicResource TXT_ADD}" HorizontalAlignment="Right" Width="150" Click="BtnAdd_Click"></Button>
+            <Grid Grid.Row="1" Grid.Column="0">
+                <DataGrid 
+                    HorizontalAlignment="Stretch"
+                    VerticalAlignment="Top" 
+                    Name="dgAlgorithms"
+                    CanUserAddRows="False"  IsReadOnly="True"
+                    AutoGenerateColumns="False" 
+                            Margin="5" >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="{DynamicResource TXT_ALGO_NUM}" Binding="{Binding DetectionClassID}" Width=".1*"/>
+                        <DataGridTextColumn Header="{DynamicResource TXT_ALGO_NAME}" Binding="{Binding DetectionClassName}" Width=".15*" />
+                        <DataGridTextColumn Header="{DynamicResource TXT_RULE_NAME}" Binding="{Binding RuleName}" Width=".15*" />
+                        <DataGridTextColumn Header="{DynamicResource TXT_PARAMETERS}" Binding="{Binding Parameters}" Width=".30*" />
+                        <DataGridTemplateColumn Header="{DynamicResource TXT_ACTIONS}" Width=".15*">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <Button Name="btnEdit" Width="50" Content="{DynamicResource TXT_EDIT}" CommandParameter="{Binding}" Margin="5 0" Click="BtnEdit_Click" />
+                                        <Button Name="btnDelete" Width="50" Content="{DynamicResource TXT_DELETE}" CommandParameter="{Binding}" Margin="5 0" Click="BtnDelete_Click"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+            <Border CornerRadius="0" Background="#B3C8CF" Margin="5" Padding="20" Grid.Row="1" Grid.Column="1">
+                <Controls:CtrlAddEditAlgorithm  x:Name="ctrlAddEditAlgorithm">
+                </Controls:CtrlAddEditAlgorithm>
+            </Border>
+        </Grid>
+    </Grid>
+</UserControl>

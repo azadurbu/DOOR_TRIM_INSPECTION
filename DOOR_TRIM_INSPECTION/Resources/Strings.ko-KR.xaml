@@ -1,0 +1,221 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:DOOR_TRIM_INSPECTION.Resources"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="TXT_EXIT_APPLICATION">종료</system:String>
+    <system:String x:Key="TXT_SETTINGS">설정</system:String>
+    <system:String x:Key="TXT_HISTORY">검사 결과</system:String>
+    <system:String x:Key="TXT_APPLICATION_NAME">도어 트림 검사 시스템</system:String>
+    <system:String x:Key="TXT_START">시작</system:String>
+    <system:String x:Key="TXT_ALC_INSPECTION_RESULT">ALC 검사 결과</system:String>
+    <system:String x:Key="TXT_NG_ITEMS">NG 목록</system:String>
+    <system:String x:Key="TXT_CLOSE">닫기</system:String>
+    <system:String x:Key="TXT_ALGO_SETUP">알고리즘 설정</system:String>
+    <system:String x:Key="TXT_ALGO">알고리즘</system:String>
+    <system:String x:Key="TXT_RECIPE_BUILDER">레시피 만들기</system:String>
+    <system:String x:Key="TXT_HW_SETTINGS">장치 설정</system:String>
+    <system:String x:Key="TXT_APP_SETTINGS">프로그램 설정</system:String>
+    <system:String x:Key="TXT_CAMERA_CONFIGURATION">카메라 설정</system:String>
+    <system:String x:Key="TXT_ADD">추가</system:String>
+    <system:String x:Key="TXT_EDIT">수정</system:String>
+    <system:String x:Key="TXT_DELETE">삭제</system:String>
+    <system:String x:Key="TXT_ALGO_NUM">알고리즘 #</system:String>
+    <system:String x:Key="TXT_ALGO_NAME">알고리즘 이름</system:String>
+    <system:String x:Key="TXT_DL_CLASS">딥러닝 이름</system:String>
+    <system:String x:Key="TXT_RULE_NAME">룰베이스 이름</system:String>
+    <system:String x:Key="TXT_PARAMETERS">검사 옵션</system:String>
+    <system:String x:Key="TXT_VALUE">값</system:String>
+    <system:String x:Key="TXT_ACTIONS">동작</system:String>
+    <system:String x:Key="TXT_OK">확인</system:String>
+    <system:String x:Key="TXT_CANCEL">취소</system:String>
+    <system:String x:Key="TXT_SAVE">저장</system:String>
+    <system:String x:Key="TXT_TRY">Try</system:String>
+    <system:String x:Key="TXT_UPPER_TRIM">어퍼트림</system:String>
+    <system:String x:Key="TXT_ARMREST">암레스트</system:String>
+    <system:String x:Key="TXT_LOWER_TRIM">로워트림</system:String>
+    <system:String x:Key="TXT_GRILL">그릴</system:String>
+    <system:String x:Key="TXT_FULL_HANDLE">풀핸들</system:String>
+    <system:String x:Key="TXT_NOISE_ABSORBER">흡음재</system:String>
+    <system:String x:Key="TXT_HANDLE">핸들</system:String>
+    <system:String x:Key="TXT_SWITCH">스위치</system:String>
+    <system:String x:Key="TXT_IMS">IMS</system:String>
+    <system:String x:Key="TXT_SPEAKER">스피커</system:String>
+    <system:String x:Key="TXT_WIRE">와이어</system:String>
+    <system:String x:Key="TXT_RECIPE_NUM">레시피 #</system:String>
+    <system:String x:Key="TXT_RECIPE_NAME">레시피 명</system:String>
+    <system:String x:Key="TXT_MODEL">모델</system:String>
+    <system:String x:Key="TXT_YEAR">연도</system:String>
+    <system:String x:Key="TXT_DOOR_TYPE">도어 타입</system:String>
+    <system:String x:Key="TXT_FRONT_IMAGE_PATH">프론트 도어 이미지 경로</system:String>
+    <system:String x:Key="TXT_REAR_IMAGE_PATH">리어 도어 이미지 경로</system:String>
+    <system:String x:Key="TXT_COPY">복사</system:String>
+    <system:String x:Key="TXT_FRONT_VIEW">전면</system:String>
+    <system:String x:Key="TXT_REAR_VIEW">후면</system:String>
+    <system:String x:Key="TXT_CHANGE_IMAGE">이미지 변경</system:String>
+    <system:String x:Key="TXT_ROI_SETUP">ROI 설정</system:String>
+    <system:String x:Key="TXT_SELECT_IMAGE">이미지 선택</system:String>
+    <system:String x:Key="TXT_BASIC_INFO">정보</system:String>
+    <system:String x:Key="TXT_FRONT_ROI_SETUP">앞면 ROI 설정</system:String>
+    <system:String x:Key="TXT_REAR_ROI_SETUP">뒷면 ROI 설정</system:String>
+    <system:String x:Key="TXT_USE_MASTER_IMAGE">마스터 이미지 사용</system:String>
+    <system:String x:Key="TXT_SELECT_FRONT_IMAGE">앞면 이미지 선택</system:String>
+    <system:String x:Key="TXT_SELECT_REAR_IMAGE">뒷면 이미지 선택</system:String>
+    <system:String x:Key="TXT_MERGE_IMAGE_FROM_FOLDER">폴더 선택</system:String>
+    <system:String x:Key="TXT_SELECT_SOURCE">소스 선택</system:String>
+    <system:String x:Key="TXT_USE_PREVIOUS_INSP_IMAGES">이전 검사 이미지 사용</system:String>
+    <system:String x:Key="TXT_LIGHT_SETTINGS">조명 설정</system:String>
+    <system:String x:Key="TXT_LIGHT_LEVEL">레벨</system:String>
+    <system:String x:Key="TXT_LIGHT_CHANNEL">채널</system:String>
+    <system:String x:Key="TXT_LIGHT_PORT">포트</system:String>
+
+    <system:String x:Key="TXT_CAMERA">카메라</system:String>
+    <system:String x:Key="TXT_CAMERA_NAME">카메라 명</system:String>
+    <system:String x:Key="TXT_CAMERA_IP_ADDRESS">IP 주소</system:String>
+    <system:String x:Key="TXT_CAMERA_SERIAL_NO">시리얼넘버</system:String>
+    <system:String x:Key="TXT_CAMERA_EXPOSURE">노출도</system:String>
+    <system:String x:Key="TXT_CAMERA_X_OFFSET">X Offset</system:String>
+    <system:String x:Key="TXT_CAMERA_Y_OFFSET">Y Offset</system:String>
+    <system:String x:Key="TXT_CAMERA_WIDTH">너비</system:String>
+    <system:String x:Key="TXT_CAMERA_HEIGHT">높이</system:String>
+    <system:String x:Key="TXT_CAMERA_FRAMERATE">프레임비율</system:String>
+    <system:String x:Key="TXT_CAMERA_GAIN">Gain</system:String>
+    <system:String x:Key="TXT_CAMERA_GRAB">촬영</system:String>
+
+    <system:String x:Key="TXT_BARCODE_READER">바코드 리더</system:String>
+    <system:String x:Key="TXT_BARCODE_PORT">포트</system:String>
+
+    <system:String x:Key="TXT_RECIPE_SELECTION">레시피 선택</system:String>
+    <system:String x:Key="TXT_FRONT_LEFT_DOOR">FR LH</system:String>
+    <system:String x:Key="TXT_FRONT_RIGHT_DOOR">FR RH</system:String>
+    <system:String x:Key="TXT_REAR_LEFT_DOOR">RR LH</system:String>
+    <system:String x:Key="TXT_REAR_RIGHT_DOOR">RR RH</system:String>
+
+    <system:String x:Key="TXT_TIMEOUT_SETTINGS">시간초과세팅</system:String>
+    <system:String x:Key="TXT_TIMEOUT_DATA_CLEAR">데이터 초기화</system:String>
+    <system:String x:Key="TXT_TIMEOUT_GRAB">그랩</system:String>
+    <system:String x:Key="TXT_TIMEOUT_INSPECTION">검사</system:String>
+
+    <system:String x:Key="TXT_AI_SETTINGS">AI 세팅</system:String>
+    <system:String x:Key="TXT_AI_METHOD">분석 방법</system:String>
+    <system:String x:Key="TXT_AI_WORKSPACE">이미지 경로</system:String>
+
+    <system:String x:Key="TXT_IMAGE_SETTINGS">이미지 세팅</system:String>
+    <system:String x:Key="TXT_IMAGE_FOLDER">이미지 폴더</system:String>
+    <system:String x:Key="TXT_IMAGE_STORAGE_PERIOD">이미지 저장기간 (Days)</system:String>
+
+    <system:String x:Key="TXT_VPP_FOLDER">VPP 폴더</system:String>
+
+    <system:String x:Key="TXT_IS_PARAMETERS">Image Stitching Parameters</system:String>
+    <system:String x:Key="TXT_IS_REGISTRATION">Registration Resolution</system:String>
+    <system:String x:Key="TXT_IS_SEAM_ESTIMATION">Seam Estimation Resolution</system:String>
+    <system:String x:Key="TXT_IS_COMPOSITING">Compositing Resolution</system:String>
+    <system:String x:Key="TXT_IS_PANO_CONFIDENCE">Pano Confidence Threshold</system:String>
+
+    <system:String x:Key="TXT_PROD_PARAM">제품 옵션</system:String>
+    <system:String x:Key="TXT_PROD_CONGCD">CONGCD</system:String>
+    <system:String x:Key="TXT_PROD_LINECD">LINECD</system:String>
+
+    <system:String x:Key="TXT_SELECT">선택</system:String>
+    <system:String x:Key="TXT_ROI_NAME">이름</system:String>
+    <system:String x:Key="TXT_DETECTION_CLASS">종류</system:String>
+    <system:String x:Key="TXT_GROUP">그룹 이름</system:String>
+    <system:String x:Key="TXT_CREATE_GROUP">그룹 생성</system:String>
+    <system:String x:Key="TXT_ALC_CODE">ALC CODE</system:String>
+    <system:String x:Key="TXT_ALC_NAME">ALC Name</system:String>
+
+    <system:String x:Key="TXT_HISTORY_DATE_RANGE">기간 선택</system:String>
+    <system:String x:Key="TXT_HISTORY_FROM">시작일</system:String>
+    <system:String x:Key="TXT_HISTORY_TO">종료일</system:String>
+    <system:String x:Key="TXT_HISTORY_3_DAYS">3 일</system:String>
+    <system:String x:Key="TXT_HISTORY_7_DAYS">7 일</system:String>
+    <system:String x:Key="TXT_HISTORY_15_DAYS">15 일</system:String>
+    <system:String x:Key="TXT_HISTORY_30_DAYS">30 일</system:String>
+    <system:String x:Key="TXT_HISTORY_90_DAYS">90 일</system:String>
+    <system:String x:Key="TXT_HISTORY_180_DAYS">180 일</system:String>
+    <system:String x:Key="TXT_HISTORY_FILTERS">Filters</system:String>
+    <system:String x:Key="TXT_HISTORY_INSP_RESULT">결과</system:String>
+    <system:String x:Key="TXT_HISTORY_ALL">전부</system:String>
+    <system:String x:Key="TXT_HISTORY_1ST">1st</system:String>
+    <system:String x:Key="TXT_HISTORY_2ND">2nd</system:String>
+    <system:String x:Key="TXT_HISTORY_DOOR_TRIM">도어트림</system:String>
+    <system:String x:Key="TXT_HISTORY_FRONT_LEFT">FR LH</system:String>
+    <system:String x:Key="TXT_HISTORY_FRONT_RIGHT">FR RH</system:String>
+    <system:String x:Key="TXT_HISTORY_REAR_LEFT">RR LH</system:String>
+    <system:String x:Key="TXT_HISTORY_REAR_RIGHT">RR RH</system:String>
+    <system:String x:Key="TXT_HISTORY_SHOW">Show</system:String>
+    <system:String x:Key="TXT_HISTORY_CHART">Chart</system:String>
+    <system:String x:Key="TXT_HISTORY_SEARCH">검색</system:String>
+    <system:String x:Key="TXT_HISTORY_OK">OK</system:String>
+    <system:String x:Key="TXT_HISTORY_NG">NG</system:String>
+
+    <system:String x:Key="TXT_DELETE_CONFIRMATION">정말로 해당 아이템을 삭제 하시겠습니까?</system:String>
+    <system:String x:Key="TXT_CONFIRMATION_YES">예</system:String>
+    <system:String x:Key="TXT_CONFIRMATION_NO">아니요</system:String>
+    <system:String x:Key="TXT_WARNING">주의!</system:String>
+
+    <system:String x:Key="TXT_INSPECTION_SUMMARY">검사 요약</system:String>
+    <system:String x:Key="TXT_INSPECTION_ITEM_SCREW">스크류</system:String>
+    <system:String x:Key="TXT_INSPECTION_ITEM_FUSION">융착부</system:String>
+    <system:String x:Key="TXT_INSPECTION_ITEM_FASTENER">화스너</system:String>
+    <system:String x:Key="TXT_INSPECTION_ITEM_LEADWIRE">리드와이어</system:String>
+    <system:String x:Key="TXT_INSPECTION_ITEM_PAD">패드</system:String>
+    <system:String x:Key="TXT_INSPECTION_ITEM_SPEAKER">스피커</system:String>
+
+    <system:String x:Key="TXT_TRIAL_IMAGE_LIST">테스트 이미지 리스트</system:String>
+    <system:String x:Key="TXT_TEST">테스트</system:String>
+
+    <system:String x:Key="TXT_POPUP_UP_DIRECTION">위쪽</system:String>
+    <system:String x:Key="TXT_POPUP_DOWN_DIRECTION">아래쪽</system:String>
+    <system:String x:Key="TXT_POPUP_LEFT_DIRECTION">왼쪽</system:String>
+    <system:String x:Key="TXT_POPUP_RIGHT_DIRECTION">오른쪽</system:String>
+
+    <system:String x:Key="TXT_DOOR_TRIM_ID">도어트림 ID</system:String>
+    <system:String x:Key="TXT_DOOR_SIDE">전면/후면</system:String>
+    <system:String x:Key="TXT_DETECTED_COLOR">선택된 색상</system:String>
+    <system:String x:Key="TXT_TRY_MASTER_IMAGE">마스터 이미지</system:String>
+    <system:String x:Key="TXT_TRY_IMAGE_1">테스트 이미지 1</system:String>
+    <system:String x:Key="TXT_TRY_IMAGE_2">테스트 이미지 2</system:String>
+    <system:String x:Key="TXT_TRY_IMAGE_3">테스트 이미지 3</system:String>
+    <system:String x:Key="TXT_TRY_IMAGE_4">테스트 이미지 4</system:String>
+    <system:String x:Key="TXT_TRY_RESULT">결과</system:String>
+    <system:String x:Key="TXT_UPDATE">수정</system:String>
+
+    <system:String x:Key="TXT_ERROR">오류</system:String>
+    <system:String x:Key="TXT_WRONG_BARCODE">잘못된 바코드!</system:String>
+
+    <system:String x:Key="TXT_RECIPE_WIZARD_PREV">이전</system:String>
+    <system:String x:Key="TXT_RECIPE_WIZARD_NEXT">다음</system:String>
+    <system:String x:Key="TXT_RECIPE_WIZARD_EXIT">종료</system:String>
+    <system:String x:Key="TXT_RECIPE_WIZARD_FINISH">종료</system:String>
+    <system:String x:Key="TXT_STOP">정지</system:String>
+    <system:String x:Key="TXT_MODIFY_GROUP">그룹 수정</system:String>
+    <system:String x:Key="TXT_REMOVE_GROUP">그룹 삭제</system:String>
+    <system:String x:Key="TXT_INSPECT">재검사</system:String>
+
+    <system:String x:Key="TXT_CALCULATE">거리찾기</system:String>
+    <system:String x:Key="TXT_DISTANCE">거리</system:String>
+
+    <system:String x:Key="TXT_ROI">ROI</system:String>
+
+    <system:String x:Key="TXT_FRONT_OK">전면 OK</system:String>
+    <system:String x:Key="TXT_REAR_OK">후면 OK</system:String>
+    <system:String x:Key="TXT_FRONT_NG">전면 NG</system:String>
+    <system:String x:Key="TXT_REAR_NG">후면 NG</system:String>
+    <system:String x:Key="TXT_MASTER_MODE_INSPECTION">마스터 모드 검사</system:String>
+    <system:String x:Key="TXT_MASTER_MODE_TEST_TIME">마스터 모드 시간</system:String>
+    <system:String x:Key="TXT_MASTER_MODE_RESTART_REQUIRED">프로그램 재시작 필요!</system:String>
+    <system:String x:Key="TXT_MASTER_INSPECTION_RESULT">마스터 검사 결과</system:String>
+    <system:String x:Key="TXT_PASS">패스</system:String>
+    <system:String x:Key="TXT_AUTO_INSP">자동 검사</system:String>
+
+    <system:String x:Key="TXT_PLEASE_PROVIDE_IMAGE">의 두 이미지를 모두 제공해 주세요</system:String>
+
+
+    <system:String x:Key="TXT_OK_IMAGE">OK 이미지</system:String>
+    <system:String x:Key="TXT_NG_IMAGE">NG 이미지</system:String>
+    <system:String x:Key="TXT_FRONT">전면</system:String>
+    <system:String x:Key="TXT_REAR">후면</system:String>
+
+	<system:String x:Key="TXT_ROI_CROP_IMG">크롭 이미지</system:String>
+
+</ResourceDictionary>

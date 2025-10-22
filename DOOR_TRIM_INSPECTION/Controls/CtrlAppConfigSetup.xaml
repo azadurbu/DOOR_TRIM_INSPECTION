@@ -1,0 +1,237 @@
+﻿<UserControl x:Class="DOOR_TRIM_INSPECTION.Controls.CtrlAppConfigSetup"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DOOR_TRIM_INSPECTION.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Loaded="Grid_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width=".33*"/>
+            <ColumnDefinition Width=".33*"/>
+            <ColumnDefinition Width=".33*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".40*"/>
+            <RowDefinition Height=".40*"/>
+            <RowDefinition Height=".20*"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" Grid.Column="0" Style="{StaticResource SettingsGridItem}">
+            <StackPanel Orientation="Vertical" Style="{StaticResource SettingsGridStackPanel}">
+                <Label Style="{StaticResource SettingsGridItemTitle}" Content="{StaticResource TXT_RECIPE_SELECTION}"></Label>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_FRONT_LEFT_DOOR}" Style="{StaticResource FormLabel}"></Label>
+                    <ComboBox Name="cboFrontLeftDoor" Grid.Column="1" Style="{StaticResource FormComboBox}"></ComboBox>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_FRONT_RIGHT_DOOR}" Style="{StaticResource FormLabel}"></Label>
+                    <ComboBox Name="cboFrontRightDoor" Grid.Column="1" Style="{StaticResource FormComboBox}"></ComboBox>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_REAR_LEFT_DOOR}" Style="{StaticResource FormLabel}"></Label>
+                    <ComboBox Name="cboRearLeftDoor" Grid.Column="1" Style="{StaticResource FormComboBox}"></ComboBox>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_REAR_RIGHT_DOOR}" Style="{StaticResource FormLabel}"></Label>
+                    <ComboBox Name="cboRearRightDoor" Grid.Column="1" Style="{StaticResource FormComboBox}"></ComboBox>
+                </Grid>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="0" Grid.Column="1" Style="{StaticResource SettingsGridItem}">
+            <StackPanel Orientation="Vertical" Style="{StaticResource SettingsGridStackPanel}">
+                <Label Style="{StaticResource SettingsGridItemTitle}" Content="{StaticResource TXT_TIMEOUT_SETTINGS}"></Label>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_TIMEOUT_DATA_CLEAR}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtTimeOutDataClr" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_TIMEOUT_GRAB}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtTimeOutGrab" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_TIMEOUT_INSPECTION}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtTimeOutInsp" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="0" Grid.Column="2" Style="{StaticResource SettingsGridItem}">
+            <StackPanel Orientation="Vertical" Style="{StaticResource SettingsGridStackPanel}">
+                <Label Style="{StaticResource SettingsGridItemTitle}" Content="{StaticResource TXT_AI_SETTINGS}" Visibility="Collapsed"></Label>
+                <Grid MaxHeight="40" Height="40"  Visibility="Collapsed">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_AI_METHOD}" Style="{StaticResource FormLabel}"></Label>
+                    <ComboBox Name="cboAnalysisMethod" Grid.Column="1" Style="{StaticResource FormComboBox}"></ComboBox>
+                </Grid>
+                <Label Style="{StaticResource SettingsGridItemTitle}" Content="{StaticResource TXT_AI_SETTINGS}"></Label>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".33*"/>
+                        <ColumnDefinition Width=".33*"/>
+                        <ColumnDefinition Width=".33*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_SELECT}" Style="{StaticResource FormLabel}"></Label>
+                    <RadioButton Grid.Column="1" Name="rdoShowROIName" GroupName="grpShow" Style="{StaticResource SettingsPageRadioButton}" Margin="5 0 10 0" Content="{DynamicResource TXT_ROI_NAME}"></RadioButton>
+                    <RadioButton Grid.Column="2" Name="rdoShowAlgoName" GroupName="grpShow" Style="{StaticResource SettingsPageRadioButton}" Margin="5 0 10 0" Content="{DynamicResource TXT_DETECTION_CLASS}"></RadioButton>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".1*"/>
+                        <ColumnDefinition Width=".4*"/>
+                        <ColumnDefinition Width=".4*"/>
+                        <ColumnDefinition Width=".1*"/>
+                    </Grid.ColumnDefinitions>
+                    <CheckBox Name="chkUseCognex" Content="Use" Grid.Column="0" Style="{StaticResource FormCheckBox}" />
+                    <Label Grid.Column="1" Content="{DynamicResource TXT_VPP_FOLDER}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtVppFolder" Grid.Column="2" Text="" Style="{StaticResource FormTextBox}" IsEnabled="False"></TextBox>
+                    <Button Name="btnSelectVppFolder" Grid.Column="3" Content="{StaticResource TXT_SELECT}" Style="{StaticResource SettingFolderSelectButton}" Click="BtnSelectVppFolder_Click" ></Button>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="40*"/>
+                        <ColumnDefinition Width="82*"/>
+                        <ColumnDefinition Width="97*"/>
+                        <ColumnDefinition Width="24*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_AI_WORKSPACE}" Style="{StaticResource FormLabel}" Grid.ColumnSpan="2"></Label>
+                    <TextBox Name="txtAIWorkspace" Grid.Column="2" Text="" Style="{StaticResource FormTextBox}" IsEnabled="False"></TextBox>
+                    <Button Name="btnSelectAIWorkSpace" Grid.Column="3" Content="{StaticResource TXT_SELECT}" Style="{StaticResource SettingFolderSelectButton}" Click="BtnSelectAIWorkSpace_Click"></Button>
+                </Grid>
+                <DataGrid Name="gvAIClasses" Margin="2 2 2 2" AutoGenerateColumns="False" CanUserAddRows="True" CanUserDeleteRows="True" VerticalScrollBarVisibility="Auto" Height="180">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Class Name" Binding="{Binding Name}" Foreground="Black" Width=".33*" />
+                        <DataGridTextColumn Header="Type [OK/NG]" Binding="{Binding Type}" Foreground="Black" Width=".33*"/>
+                        <DataGridTextColumn Header="Score" Binding="{Binding Score}" Width=".33*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <CheckBox Name="chkUseInCalculation" Content="Use for OK/NG Calculation"/>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="2" Grid.Column="0" Style="{StaticResource SettingsGridItem}">
+            <StackPanel Orientation="Vertical" Style="{StaticResource SettingsGridStackPanel}">
+                <Label Style="{StaticResource SettingsGridItemTitle}" Content="{StaticResource TXT_IMAGE_SETTINGS}"></Label>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".4*"/>
+                        <ColumnDefinition Width=".1*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_IMAGE_FOLDER}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtImgFolder" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}" IsEnabled="False"></TextBox>
+                    <Button Name="btnSelectImageFolder" Grid.Column="2" Content="{StaticResource TXT_SELECT}" Style="{StaticResource SettingFolderSelectButton}" Click="BtnSelectImageFolder_Click"></Button>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_IMAGE_STORAGE_PERIOD}" Style="{StaticResource FormLabel}"></Label>
+                    <ComboBox Name="cboImageStoragePeriod" Grid.Column="1" Style="{StaticResource FormComboBox}"></ComboBox>
+                </Grid>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="1" Grid.Column="2" Style="{StaticResource SettingsGridItem}" Visibility="Collapsed">
+            <StackPanel Orientation="Vertical" Style="{StaticResource SettingsGridStackPanel}">
+                <Label Style="{StaticResource SettingsGridItemTitle}" Content="{StaticResource TXT_IS_PARAMETERS}"></Label>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_IS_REGISTRATION}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtStitchingRegRes" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_IS_SEAM_ESTIMATION}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtStitchSeam" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_IS_COMPOSITING}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtStitchComp" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_IS_PANO_CONFIDENCE}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtStitchPano" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="2" Grid.Column="1" Style="{StaticResource SettingsGridItem}">
+            <StackPanel Orientation="Vertical" Style="{StaticResource SettingsGridStackPanel}">
+                <Label Style="{StaticResource SettingsGridItemTitle}" Content="{StaticResource TXT_PROD_PARAM}"></Label>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_PROD_CONGCD}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtProdCONGCD" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+                <Grid MaxHeight="40" Height="40">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".5*"/>
+                        <ColumnDefinition Width=".5*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="{DynamicResource TXT_PROD_LINECD}" Style="{StaticResource FormLabel}"></Label>
+                    <TextBox Name="txtProdLINECD" Grid.Column="1" Text="" Style="{StaticResource FormTextBox}"></TextBox>
+                </Grid>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Style="{StaticResource SettingsGridItem}">
+            <local:CtrlMasterModeConfigSetup x:Name="ctrlMasterModeConfig"/>
+        </Border>
+        <Grid Grid.Row="2" Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Button Grid.Row="0" Style="{StaticResource SettingsSaveButton}" Content="{StaticResource TXT_MASTER_MODE_INSPECTION}" Name="btnMasterModeTest" Click="BtnMasterModeTest_Click" Visibility="Collapsed"></Button>
+            <Button Grid.Row="1" Style="{StaticResource SettingsSaveButton}" Content="{StaticResource TXT_MASTER_INSPECTION_RESULT}" Name="btnMasterTestResult" Click="BtnMasterTestResult_Click"></Button>
+            <Button Grid.Row="2" Style="{StaticResource SettingsSaveButton}" Content="{StaticResource TXT_SAVE}" Name="btnSaveAppSettings" Click="BtnSaveAppSettings_Click"></Button>
+        </Grid>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,94 @@
+﻿<Window x:Class="DOOR_TRIM_INSPECTION.Form.MasterModeInspectionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DOOR_TRIM_INSPECTION.Form"
+        xmlns:Controls="clr-namespace:DOOR_TRIM_INSPECTION.Controls"
+        mc:Ignorable="d"
+        Title="MasterModeInspectionWindow" 
+        Height="1040" Width="1920" 
+        WindowStartupLocation="CenterScreen" WindowState="Maximized" Background="#E5E1DA" WindowStyle="None" Padding="0" Loaded="Window_Loaded" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="671*" />
+            <ColumnDefinition Width="865*"/>
+            <ColumnDefinition Width="384*"/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" CornerRadius="0 0 9 9" Background="#538392" >
+            <Grid Margin="0 0 5 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.4*" />
+                    <ColumnDefinition Width="0.4*" />
+                    <ColumnDefinition Width="0.2*"/>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Name="imgLogo" Source="../images/logo-white-kr.png" Height="45" VerticalAlignment="Center" Margin="10 0 20 0"></Image>
+                        <TextBlock Name="txtApplicationName" Foreground="Black" FontWeight="ExtraBold" FontSize="30" Text="{DynamicResource TXT_APPLICATION_NAME}" VerticalAlignment="Center" Margin="7 7 7 7"></TextBlock>
+                    </StackPanel>
+                </Border>
+                <Border CornerRadius="7 7 7 7" Margin="0 5 0 5" Background="#89A8B2" Padding="3" VerticalAlignment="Center" Grid.Column="2" Height="60">
+                    <StackPanel Orientation="Vertical">
+
+                        <Label  Name="lblStatus" FontWeight="Bold" FontSize="24" Grid.Column="0" Margin="5" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"></Label>
+                    </StackPanel>
+
+                </Border>
+                <Border Grid.Column="2">
+                    <Grid Margin="9 0 0 5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0.33*" />
+                            <ColumnDefinition Width="0.33*" />
+                            <ColumnDefinition Width="0.33*"/>
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                </Border>
+            </Grid>
+        </Border>
+        <Border Grid.Column="0" Grid.Row="1" CornerRadius="7 7 7 7" Margin="7,7,0,7" Background="#F1F0E8" Padding="3" Grid.ColumnSpan="2">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*" />
+                </Grid.RowDefinitions>
+                <Controls:ImageViewer x:Name="ctrlImageViewer" Grid.Row="0" Visibility="Collapsed" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Controls:ImageViewer>
+                <Controls:ImageViewer x:Name="ctrlImageVIewFLOK" Grid.Row="0" Visibility="Collapsed" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Controls:ImageViewer>
+                <Controls:ImageViewer x:Name="ctrlImageVIewFLNG" Grid.Row="0" Visibility="Collapsed" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Controls:ImageViewer>
+                <Controls:ImageViewer x:Name="ctrlImageVIewFROK" Grid.Row="0" Visibility="Collapsed" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Controls:ImageViewer>
+                <Controls:ImageViewer x:Name="ctrlImageVIewFRNG" Grid.Row="0" Visibility="Collapsed" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Controls:ImageViewer>
+                <Controls:ImageViewer x:Name="ctrlImageVIewRLOK" Grid.Row="0" Visibility="Collapsed" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Controls:ImageViewer>
+                <Controls:ImageViewer x:Name="ctrlImageVIewRLNG" Grid.Row="0" Visibility="Collapsed" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Controls:ImageViewer>
+                <Controls:ImageViewer x:Name="ctrlImageVIewRROK" Grid.Row="0" Visibility="Collapsed" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Controls:ImageViewer>
+                <Controls:ImageViewer x:Name="ctrlImageVIewRRNG" Grid.Row="0" Visibility="Collapsed" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Controls:ImageViewer>
+            </Grid>
+        </Border>
+        <Border Grid.Column="2" Grid.Row="1" Margin="7,7,7,0" CornerRadius="7 7 7 7">
+            <Grid>
+                <StackPanel Orientation="Vertical">
+                    <Label Name="lblFLOK" Height="70" Margin="0 0 0 7" FontSize="30" FontWeight="ExtraBold" Background="WhiteSmoke" VerticalContentAlignment="Center" Content="Front Left OK - PASS" BorderBrush="SeaGreen"  BorderThickness="0" HorizontalContentAlignment="Center" MouseDown="LblResult_MouseDown"></Label>
+                    <Label Name="lblFLNG" Height="70" Margin="0 0 0 7" FontSize="30" FontWeight="ExtraBold" Background="WhiteSmoke" VerticalContentAlignment="Center" Content="Front Left NG - PASS" BorderBrush="SeaGreen"  BorderThickness="0" HorizontalContentAlignment="Center" MouseDown="LblResult_MouseDown"></Label>
+                    <Label Name="lblFROK" Height="70" Margin="0 0 0 7" FontSize="30" FontWeight="ExtraBold" Background="WhiteSmoke" VerticalContentAlignment="Center" Content="Front Right OK - PASS" BorderBrush="SeaGreen"  BorderThickness="0" HorizontalContentAlignment="Center" MouseDown="LblResult_MouseDown"></Label>
+                    <Label Name="lblFRNG" Height="70" Margin="0 0 0 7" FontSize="30" FontWeight="ExtraBold" Background="WhiteSmoke" VerticalContentAlignment="Center" Content="Front Right NG - PASS" BorderBrush="SeaGreen"  BorderThickness="0" HorizontalContentAlignment="Center" MouseDown="LblResult_MouseDown"></Label>
+                    <Label Name="lblRLOK" Height="70" Margin="0 0 0 7" FontSize="30" FontWeight="ExtraBold" Background="WhiteSmoke" VerticalContentAlignment="Center" Content="Rear Left OK - PASS" BorderBrush="SeaGreen"  BorderThickness="0" HorizontalContentAlignment="Center" MouseDown="LblResult_MouseDown"></Label>
+                    <Label Name="lblRLNG" Height="70" Margin="0 0 0 7" FontSize="30" FontWeight="ExtraBold" Background="WhiteSmoke" VerticalContentAlignment="Center" Content="Rear Left NG - PASS" BorderBrush="SeaGreen"  BorderThickness="0" HorizontalContentAlignment="Center" MouseDown="LblResult_MouseDown"></Label>
+                    <Label Name="lblRROK" Height="70" Margin="0 0 0 7" FontSize="30" FontWeight="ExtraBold" Background="WhiteSmoke" VerticalContentAlignment="Center" Content="Rear Right OK - PASS" BorderBrush="SeaGreen"  BorderThickness="0" HorizontalContentAlignment="Center" MouseDown="LblResult_MouseDown"></Label>
+                    <Label Name="lblRRNG" Height="70" Margin="0 0 0 7" FontSize="30" FontWeight="ExtraBold" Background="WhiteSmoke" VerticalContentAlignment="Center" Content="Rear Right NG - PASS" BorderBrush="SeaGreen"  BorderThickness="0" HorizontalContentAlignment="Center" MouseDown="LblResult_MouseDown"></Label>
+                    <Button Name="btnAuto" Height="70" Margin="0 0 0 7" FontSize="32" FontWeight="ExtraBold" Background="Aqua" VerticalContentAlignment="Center" Grid.Row="3" Content="{StaticResource TXT_AUTO_INSP}" BorderBrush="#F1F0E8"  BorderThickness="0" Click="btnAuto_Click"></Button>
+                    <Button Name="btnPass" Height="70" Margin="0 0 0 7" FontSize="32" FontWeight="ExtraBold" Background="LimeGreen" VerticalContentAlignment="Center" Grid.Row="3" Content="{StaticResource TXT_PASS}" BorderBrush="#F1F0E8"  BorderThickness="0" Click="BtnPass_Click"></Button>
+                    <Button Name="btnClose" Height="70" Margin="0 0 0 7" FontSize="32" FontWeight="ExtraBold" Background="Crimson" Content="{StaticResource TXT_CLOSE}" BorderBrush="#F1F0E8"  BorderThickness="0" Click="BtnClose_Click"></Button>
+                </StackPanel>
+            </Grid>
+        </Border>
+        <Border Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="3"  CornerRadius="15 15 0 0" Background="#B3C8CF" >
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Column="0" Margin="10 0 0 0">
+                <Image Source="../images/Hanmech_Icon.png" Height="20" VerticalAlignment="Center" Margin="0 0 0 0"></Image>
+                <TextBlock VerticalAlignment="Center" FontSize="12" FontWeight="Bold">&#169; Hanmech Co. Ltd.</TextBlock>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

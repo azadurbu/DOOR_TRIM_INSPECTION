@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="DOOR_TRIM_INSPECTION.Controls.CtrlInspectionResultItem"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DOOR_TRIM_INSPECTION.Controls"
+             mc:Ignorable="d" Height="29" Padding="0" Margin="10,0,10,5">
+    <Border BorderBrush="Gray" BorderThickness="0,0,0,1" Padding="5,0,5,5" Height="29" HorizontalAlignment="Stretch">
+        <Grid VerticalAlignment="Stretch" Background="Transparent" Margin="0,0,0,0" Height="32" Cursor="Hand"  HorizontalAlignment="Stretch">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.4*"/>
+                <ColumnDefinition Width="0.4*"/>
+                <ColumnDefinition Width="0.2*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Left" Padding="0"
+                   Text="PLUG_1" FontSize="14" FontWeight="Normal" Margin="5 0 0 0" Name="txtName" />
+            <TextBlock Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Center" Padding="0"
+                   Text="White Plug 1" FontSize="14" FontWeight="Normal" Name="txtType" />
+            <TextBlock Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" TextAlignment="Center" Padding="0"
+                   Text="NG" FontSize="14" FontWeight="Normal" Name="txtInspResult" />
+        </Grid>
+    </Border>
+ </UserControl>
