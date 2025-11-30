@@ -55,37 +55,6 @@ DOOR_TRIM_INSPECTION is a real-time camera-driven inspection system that automat
 
 ---
 
-## 📁 Folder Structure (Inside `DOOR_TRIM_INSPECTION/`)
-
-```
-DOOR_TRIM_INSPECTION/
-│
-├── Class/                # Core classes: inspection logic, utilities, data models
-├── Controls/             # Custom WPF controls (buttons, UI components)
-├── Device/               # Camera & Cognex device integration
-├── Form/                 # Additional UI windows, dialogs, operator forms
-├── Images/               # Reference/template images, ROI masks, snapshots
-├── Log/                  # Inspection logs, NG/OK images, history
-├── Properties/           # Project metadata, settings, assembly info
-├── Resources/            # UI resources, icons, XAML resources, fonts
-├── obj/                  # Intermediate build files (auto-generated)
-│
-├── App.config            # Application configuration (paths, runtime settings)
-├── App.xaml              # WPF application root
-├── App.xaml.cs           # Application startup logic
-│
-├── MainWindow.xaml       # Main UI layout (camera view, inspection result, controls)
-├── MainWindow.xaml.cs    # Main application logic and event handling
-│
-├── DOOR_TRIM_INSPECTION.csproj        # Project configuration
-├── DOOR_TRIM_INSPECTION.csproj.user   # VS user-specific config
-│
-├── app.manifest          # Application manifest (permissions, DPI settings)
-└── packages.config       # NuGet package references (OpenCVSharp, Cognex, etc.)
-```
-
----
-
 ## 🔍 Core System Features
 
 ### Vision-Based Component Checks
