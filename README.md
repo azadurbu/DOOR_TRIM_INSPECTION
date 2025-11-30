@@ -131,37 +131,6 @@ Monitor Display & PLC Output
 
 ---
 
-## 📄 Example Inspection Logic (C#)
-
-```csharp
-public InspectionResult Run(Bitmap leftSide, Bitmap rightSide, Recipe recipe)
-{
-    var result = new InspectionResult();
-
-    result.Screw = ScrewCheck(leftSide, recipe.ScrewRoi) &&
-                   ScrewCheck(rightSide, recipe.ScrewRoi);
-    result.Plug = PlugCheck(leftSide, recipe.PlugRoi) &&
-                  PlugCheck(rightSide, recipe.PlugRoi);
-    result.Speaker = SpeakerCheck(leftSide, recipe.SpeakerRoi) &&
-                     SpeakerCheck(rightSide, recipe.SpeakerRoi);
-    result.Fastener = FastenerCheck(leftSide, recipe.FastenerRoi) &&
-                      FastenerCheck(rightSide, recipe.FastenerRoi);
-    result.Pad = PadCheck(leftSide, recipe.PadRoi) &&
-                 PadCheck(rightSide, recipe.PadRoi);
-
-    result.Overall = result.AllPass() ? "OK" : "NG";
-
-    // Send result to PLC
-    PLC.SendSignal(result.Overall);
-
-    // Save inspection logs
-    Logger.Save(result, leftSide, rightSide);
-    return result;
-}
-```
-
----
-
 ## 📌 Future Enhancements
 
 * AI-based defect detection (YOLO/ONNX/deep learning)
