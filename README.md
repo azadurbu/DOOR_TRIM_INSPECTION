@@ -1,57 +1,52 @@
 # DOOR_TRIM_INSPECTION
 
-**Automotive Door Trim Vision Inspection System**
+**Automotive Door Trim Vision Inspection System – for Dydeokyang Co., Ltd.**
 
-A modern vision-based inspection platform for verifying door trim assembly accuracy in automotive manufacturing.
-
-DOOR_TRIM_INSPECTION is a real-time camera-driven inspection system that automatically checks screws, plugs, speakers, fasteners, pads, and other components installed on a vehicle’s door trim. Built using **C#, WPF, OpenCVSharp, and Cognex vision tools**, the system integrates with **PLC signals** to control the production line, ensuring fast, reliable, and model-specific inspection results—reporting **OK** or **NG** based on precise visual criteria. Designed for high-volume production environments, it improves quality, reduces manual errors, and maintains consistency across all inspected door trims.
+A modern vision-based inspection platform developed for **Dydeokyang Co., Ltd.**, a manufacturer of car door assemblies for Hyundai. This system verifies door trim assembly accuracy in real-time, automatically checking screws, plugs, speakers, fasteners, pads, and other components. Built using **C#, WPF, OpenCVSharp, and Cognex vision tools**, it integrates with **PLC signals**, stores inspection results in **MSSQL**, saves captured images to the file system, and logs device activity. The system ensures fast, reliable, and model-specific inspection results—reporting **OK** or **NG** based on precise visual criteria—helping Dydeokyang maintain high-quality standards in automotive door production.
 
 ---
 
-## 📌 Overview of Real-Time Inspection Process
+## 📌 Real-Time Inspection Process
 
-1. **PLC Signal Input**
+The system follows this workflow:
 
-   * The system receives a **start signal from the PLC** indicating that a door trim has been placed in the machine by the operator.
+1. **Operator Placement**
 
-2. **Operator Placement**
+   * The operator positions a door trim on the machine’s door holder.
 
-   * The operator positions the door trim onto the door holder inside the inspection machine.
+2. **PLC Start Signal**
 
-3. **Lighting & Camera Triggering**
+   * PLC sends a **start signal** indicating the door trim is ready for inspection.
 
-   * Once the door trim is in position, the machine turns on the proper inspection lights.
-   * Two cameras capture images of both sides of the door trim.
+3. **Lighting & Camera Capture**
 
-4. **Image Acquisition & Processing**
+   * Machine lights turn on.
+   * Two cameras capture both left and right sides of the door trim simultaneously.
 
-   * Captured images are sent to the vision system (OpenCVSharp + Cognex).
-   * Pre-processing includes ROI cropping, noise reduction, thresholding, edge detection, and color enhancement.
+4. **Vision Engine Processing**
 
-5. **Component Inspection**
+   * Pre-processing: ROI cropping (per door model), noise reduction, thresholding, edge detection, and color enhancement.
+   * Component inspection: screws, plugs, speakers, fasteners, pads, and other model-specific components.
 
-   * Each component is inspected based on the selected model’s recipe:
-
-     * Screws → presence, orientation, proper seating
-     * Plugs → handle/control connectors
-     * Speaker → presence and shape
-     * Fasteners/Clips → presence and alignment
-     * Pads / Foam → correct placement
-     * Model-specific components
-
-6. **Decision & Output**
+5. **Decision Module**
 
    * If all components pass → **OK**
    * If any component fails → **NG**
-   * The result is displayed on the monitor in real-time.
 
-7. **PLC Signal Output**
+6. **Monitor Display & PLC Output**
 
-   * The system sends an **OK/NG signal back to the PLC** to control downstream processes (e.g., conveyor movement, sorting, alarms).
+   * OK/NG result is displayed on the monitor.
+   * OK/NG signal is sent back to the PLC for downstream process control.
 
-8. **Logging**
+7. **Data Storage & Logging**
 
-   * All inspection results, timestamps, model info, and captured images are saved in `/Log/` for traceability.
+   * Captured images are saved in the **file system**.
+   * Inspection results (OK/NG, component status, model, timestamp) are stored in **MSSQL**.
+   * Device logs (camera, PLC communication, system events) are stored in `/Log/`.
+
+8. **Next Cycle**
+
+   * Operator places the next door trim on the holder, and the process repeats.
 
 ---
 
@@ -64,11 +59,11 @@ DOOR_TRIM_INSPECTION is a real-time camera-driven inspection system that automat
 * Plugs → handle/control connector verification
 * Speaker → presence, correct shape
 * Pads / Foam → proper positioning
-* Multi-model support with per-model ROI recipes
+* Multi-model support with **ROI per door model**
 
 ### PLC Integration
 
-* Receives start signal from PLC when a door trim enters the machine
+* Receives start signal from PLC when door trim enters the machine
 * Sends OK/NG output signals to PLC to control downstream processes
 
 ### WPF Application Features
@@ -78,7 +73,12 @@ DOOR_TRIM_INSPECTION is a real-time camera-driven inspection system that automat
 * OK/NG indicator on the monitor
 * Model selection for inspection
 * Parameter adjustment for fine-tuning detection
-* Logging of results and captured images
+
+### Data Storage & Logging
+
+* **Images** → stored in file system (raw and processed)
+* **Inspection results** → stored in MSSQL (OK/NG, component status, model, timestamps)
+* **Device logs** → saved in `/Log/` (camera events, PLC communication, system logs)
 
 ---
 
@@ -94,7 +94,7 @@ The video demonstrates:
 
 * Operator placing the door trim on the holder
 * Machine lights turning on and cameras capturing both sides
-* Real-time vision analysis of screws, plugs, speakers, fasteners, pads
+* Real-time analysis of screws, plugs, speakers, fasteners, pads
 * OK/NG results displayed on the monitor
 * Integration with PLC signals for automated process control
 
@@ -103,17 +103,17 @@ The video demonstrates:
 ## 🧩 Inspection Workflow Overview
 
 ```
-PLC sends start signal
+Operator places door trim on holder
         │
         ▼
-Operator places door trim on holder
+PLC sends start signal
         │
         ▼
 Machine lights turn on → Cameras capture left & right sides
         │
         ▼
 Vision Engine (OpenCVSharp + Cognex)
-   • ROI cropping
+   • ROI cropping (per model)
    • Pre-processing
    • Component inspection (screws, plugs, speaker, fasteners, pads)
         │
@@ -126,26 +126,10 @@ Decision Module
 Monitor Display & PLC Output
    • Show OK/NG
    • Send OK/NG signal to PLC
-   • Save images & results in /Log/
+   • Save images & results in folder, MSSQL DB, and Log
+        │
+        ▼
+Operator places next door trim on holder
 ```
-
 ---
 
-## 📌 Future Enhancements
-
-* AI-based defect detection (YOLO/ONNX/deep learning)
-* Automatic model recognition for hands-free setup
-* Multi-camera synchronized inspection
-* Advanced PLC integration for complete line automation
-* Web dashboard for real-time monitoring and production metrics
-
----
-
-This README now fully captures:
-
-* **Operator interaction**
-* **PLC input/output**
-* **Dual-side camera capture**
-* **Component analysis**
-* **OK/NG decision logic**
-* **Logging** and real-time display
