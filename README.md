@@ -135,8 +135,7 @@ Operator places next door trim on holder
 ## Main Software screen Shot
 !['Piano screenshot'](https://github.com/azadurbu/DOOR_TRIM_INSPECTION/blob/main/Screenshot%202025-09-18%20112350.jpg) 
 
-Screenshot 2025-12-02 162233.png
 
-[![Watch the video](https://github.com/azadurbu/DOOR_TRIM_INSPECTION/blob/main/Screenshot%202025-12-02%20162233.png)]([https://youtu.be/VIDEO_ID](https://youtu.be/cMi_vfp_FNA))
-https://youtu.be/cMi_vfp_FNA
-https://www.youtube.com/watch?v=cMi_vfp_FNA
+## Dydeokyang door trim inspection in action
+[![Watch the video](https://github.com/azadurbu/DOOR_TRIM_INSPECTION/blob/main/Screenshot%202025-12-02%20162233.png)]([https://youtu.be/VIDEO_ID](https://www.youtube.com/watch?v=cMi_vfp_FNA))
+
