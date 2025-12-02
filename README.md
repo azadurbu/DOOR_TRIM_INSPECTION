@@ -133,4 +133,4 @@ Operator places next door trim on holder
 ```
 ---
 ## Main Software screen Shot
-(https://github.com/azadurbu/DOOR_TRIM_INSPECTION/blob/main/Screenshot%202025-09-18%20112350.jpg)
+!['Piano screenshot'](https://github.com/azadurbu/DOOR_TRIM_INSPECTION/blob/main/Screenshot%202025-09-18%20112350.jpg) 
