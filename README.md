@@ -137,5 +137,5 @@ Operator places next door trim on holder
 
 
 ## Dydeokyang door trim inspection in action
-[![Watch the video](https://github.com/azadurbu/DOOR_TRIM_INSPECTION/blob/main/Screenshot%202025-12-02%20162233.png)]([https://youtu.be/VIDEO_ID](https://www.youtube.com/watch?v=cMi_vfp_FNA))
+[![Watch the video](https://github.com/azadurbu/DOOR_TRIM_INSPECTION/blob/main/Screenshot%202025-12-02%20162233.png)](https://www.youtube.com/watch?v=cMi_vfp_FNA)
 
